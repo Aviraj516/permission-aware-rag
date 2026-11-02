@@ -1,0 +1,18 @@
+
+{
+  "public_analyst": {
+    "name": "Public analyst",
+    "tenant_id": "microsoft_public",
+    "access_level": "public"
+  },
+  "employee_a": {
+    "name": "Tenant A analyst",
+    "tenant_id": "tenant_a",
+    "access_level": "internal"
+  },
+  "employee_b": {
+    "name": "Tenant B analyst",
+    "tenant_id": "tenant_b",
+    "access_level": "internal"
+  }
+}

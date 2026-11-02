@@ -1,0 +1,4165 @@
+
+[PAGE 1]
+2026 Environmental 
+Sustainability Report 
+Responsibly building the AI future 
+Reporting on our 2025 fiscal year 
+
+[PAGE 2]
+2 2026 Environmental Sustainability Report Overview Appendix Infrastructure Products 
+Overview 
+Foreword 4 
+Our approach 8 
+Infrastructure 
+Introduction 13 
+Datacenters 14 
+Scaling energy solutions 28 
+Advancing carbon dioxide removal 32 
+Campuses 35 
+Investing where we live and work 39 
+Looking ahead 41 
+Products 
+Introduction 43 
+Software and platforms 44 
+Devices 48 
+XBOX 51 
+Logistics and supply chain 53 
+Applying AI for sustainability 56 
+Looking ahead 60 
+Appendix 
+2025 progress at a glance 62 
+How we report 63 
+Endnotes 64 
+In this report 
+This report presents Microsoft’s 
+environmental sustainability performance 
+during FY25. It provides an overview of 
+our strategy, progress, and key initiatives 
+across our infrastructure and products, 
+along with the context shaping our 
+work. More detailed environmental data, 
+methodologies, and performance metrics 
+are available in our Environmental Data 
+Fact Sheet. We publish both as part of our 
+commitment to transparency, accountability, 
+and shared learning. 
+Explore more 
+Accelerating Sustainability | Microsoft 
+Reporting disclosure 
+A key principle of our work is transparency. This report, published annually, includes our strategy, progress against our goals, and key challenges and trends we see in 
+this work. We also publish our environmental data, which is included in the separate Environmental Data Fact Sheet. Deloitte & Touche LLP performed a review relating 
+to specified information within Section 1 of the Environmental Data Fact Sheet. Read about how we report in Appendix A. 
+
+[PAGE 3]
+32026 Environmental Sustainability ReportOverview Appendix Infrastructure Products 
+Overview 
+In this section 
+Foreword 4
+Our approach 8
+3
+2026 Environmental Sustainability ReportOverview AppendixInfrastructure Products
+
+[PAGE 4]
+42026 Environmental Sustainability Report Overview Appendix Infrastructure Products 
+Foreword 
+Responsibly building 
+the AI future 
+As we enter a new era for AI, Microsoft’s 
+environmental sustainability work is 
+entering a new phase—defined not only by 
+ambition, but by how we deliver in a period 
+of rapid technological change. In our 
+pursuit of becoming a carbon negative, 
+water positive, and zero waste company 
+that protects ecosystems, the context 
+has evolved, and so must our approach. 
+The global shift toward AI is reshaping 
+economies, accelerating innovation, and becoming 
+foundational to how technology is built and used. 
+It is also increasing demand for the energy, water, 
+land, and materials required to support that growth. 
+As a company at the forefront of this transition, 
+Microsoft has a responsibility to help ensure that 
+technology strengthens, rather than strains, the 
+systems and communities on which it depends. 
+This imperative is reshaping the context for 
+our work. 
+We are approaching this moment with clarity 
+and conviction. We believe AI can deliver broad 
+societal, economic, and environmental benefits, 
+but innovation at this scale must be matched by 
+responsibility at the same scale. For Microsoft, 
+this means designing, building, and operating 
+infrastructure that is more efficient, more 
+resilient, and more grounded in the realities 
+of the communities where we operate. 
+We do not see these dynamics as a reason to step 
+back. We see them as a mandate to lead differently. 
+That requires greater operational rigor, stronger 
+integration across our sustainability priorities, 
+and a sharper focus on durable outcomes for the 
+local communities where we work and the global 
+value chains that make our work possible. It also 
+requires being transparent about where progress 
+is advancing, where it is more difficult, and where 
+new approaches are needed. 
+
+
+[PAGE 5]
+Foreword continued 
+5 2026 Environmental Sustainability Report Overview Appendix Infrastructure Products 
+The path forward will not be defined by simple 
+tradeoffs or single solutions. It will depend on how 
+effectively we align innovation with stewardship. 
+The systems we build to support the future must 
+also support the long-term health of the planet and 
+the communities we serve. Our experience makes 
+clear that this is possible, but only with even greater 
+discipline, partnership, and a willingness to learn 
+and adapt as conditions evolve. 
+What this moment requires 
+Our aim is to build technology that gives more 
+than it takes. Long-term progress depends on 
+how we build it and whether growth strengthens 
+the places where it takes root. 
+This thinking is reflected in our Community-
+First AI Infrastructure approach, which is helping 
+shape a more integrated model for community 
+partnership, responsible operations, and 
+environmental performance as we grow. In this 
+way, sustainability is not separate from growth; 
+it is part of how responsible growth is defined. 
+While AI infrastructure is driving demand for 
+energy, water, land, and materials, sustainability 
+solutions are not scaling fast enough to 
+meet demand. This tension is real, and it is 
+also productive. 
+It is forcing sharper questions: Where do we need 
+to move faster, invest differently, or rethink our 
+approach? Which assumptions still hold, which ones 
+need to evolve? Five years into this work, we have 
+more operational data, more direct experience, 
+and a clearer view of what measurable planetary 
+progress actually requires. That perspective 
+helps keep us focused on outcomes rather than 
+attached to any single pathway. 
+We want to be clear about what this means—and 
+what it does not. It means being more precise 
+about what sustainability requires for Microsoft, 
+and more willing to refine our strategies as 
+conditions change, data improves, and tradeoffs 
+become clearer. It does not mean we are lowering 
+our ambition. 
+Today , accountability depends not 
+only on setting ambitious goals, but on 
+improving how we deliver against them. 
+
+[PAGE 6]
+Foreword continued 
+6 2026 Environmental Sustainability Report Overview Appendix Infrastructure Products 
+Progress amid growth 
+Our results reflect both progress and pressure. 
+As we scale the physical infrastructure required to 
+power the AI economy, our emissions are shaped 
+by the impact of that growth and the actions 
+we are taking to manage it. 
+30M 
+25M 
+35M 
+20M 
+15M 
+10M 
+5M 
+0M 
+FY21 FY22 FY23 FY24 FY25FY20 
+GHG Emissions (mtCO2 e) 25M 
+16M 
+17M 
+13M 
+19M 
+14M 
+22M 
+14M 
+16M 
+29M 
+34M 
+Estimated emissions 
+without select 
+interventions1 
+20M 
+Actual reported 
+emissions 
+The visual that follows illustrates this dynamic by 
+comparing our reported emissions with a modeled 
+view of where emissions may have been in the 
+absence of four specific interventions: carbon-
+free electricity, sustainable fuels, XBOX console 
+efficiency, and Surface device decarbonization. 
+While these examples represent only a portion 
+of our emissions reduction efforts, they highlight 
+an important lesson from our work to date: 
+that well-designed, targeted interventions can 
+deliver measurable progress even as demand 
+for infrastructure continues to rise. 
+In FY25, we matched 100% of our annual 
+glob
+al electricity consumption with renewable 
+energy.2 Microsoft will continue to push for an 
+expansive focus on adding all forms of carbon-free 
+electricity (CFE)3 to the grids where we operate, 
+complementing and building on our portfolio 
+of renewable energy resources. We recognize 
+that the world’s rising electricity needs require 
+a balanced, all-of-the-above decarbonization 
+strategy to meet global economic growth and 
+environmental goals, and we will continue to 
+support this approach moving forward. 
+Our total emissions (Scopes 1, 2, and 3) increased 
+25
+% year over year, driven primarily by the expansion 
+of our datacenter infrastructure and pausing our 
+use of non-additional, unbundled renewable energy 
+ce
+rtificates as we prioritize investments that bring 
+ne
+t new power to grids. While this decision increases 
+our reported emissions in the near term, it enables 
+us to increase the development of new CFE rather 
+than relying on certificates alone. We believe this 
+change will create more long-term sustainability 
+benefits. Growth-related emissions pressure was 
+expected. The more important signal is where 
+that pressure is concentrated.
+Scope 3 remains the largest share of our footprint 
+ov
+erall, but one of the clearest changes this year 
+was the growing contribution of Scope 2, which 
+represents 13% of our total emissions—up from 
+nearly 2% last year. This development highlights how 
+important the energy systems across our supply 
+chain are in shaping environmental outcomes. 
+In FY25, we matched 
+100% of our annual global 
+electricity consumption 
+with renewable energy .
+0.07% 
+Reduced single-use plastics 
+in primary packaging to 0.07% 
+across our global portfolio.4 
+
+
+[PAGE 7]
+Foreword continued 
+7 2026 Environmental Sustainability Report Overview Appendix Infrastructure Products 
+This year’s results also made clear that progress 
+now depends on adapting how we work. 
+Water is one of the clearest examples. In FY25, 
+we replenished for the first time more water 
+globally than we withdrew—more than 14 million 
+cubic meters—marking a major milestone on our 
+journey to become water positive. Reaching this 
+point reflects years of work to improve water 
+efficiency, expand replenishment efforts, and 
+scale partnerships around the world. 
+In FY25, we replenished 
+more water globally 
+than we withdrew . 
+We are proud of this achievement but also know 
+that replenishing global volumes is not enough. 
+The next phase of our work is increasingly local. 
+As we move forward, we are placing greater 
+focus on helping restore more water to the 
+watersheds where we operate than we withdraw 
+while strengthening long-term water resilience. 
+We prioritize projects in water-stressed regions that 
+are locally relevant and designed in partnership 
+with communities, delivering benefits not only 
+for water availability, but also for ecosystems, 
+economies, and people. Through this approach, 
+we aim to ensure our growth supports and helps 
+sustain the communities and environments 
+where we operate. 
+Transparency remains central to how we work and 
+how we report. Microsoft has eliminated nearly 
+all single-use plastics in our primary product 
+packaging, reducing the share that remained to 
+just 0.07% at the end of calendar year 2025.4 But we 
+are not rounding down. We are staying accountable 
+to the work required to eliminate them entirely. 
+Across our cloud operations, we achieved 92% 
+reuse and recycling of decommissioned servers 
+and components for the second consecutive year, 
+diverted 90.5% of construction and demolition 
+waste from landfills and incinerators, and expanded 
+our Circular Centers to seven facilities globally. 
+These results also reflect a broader shift toward 
+solutions that have co-benefits—reducing both 
+emissions and resource demand over time. 
+Throughout this journey, we have learned that 
+progress in one area often depends on progress 
+in another. Clean energy investments are essential 
+to decarbonization. Water use is linked not only to 
+our operations, but also to the energy systems that 
+power them. And extending hardware life through 
+circular approaches can reduce both emissions 
+and material demand across the value chain. 
+That is why our priorities extend beyond tracking 
+progress against individual commitments on 
+water, carbon, waste, and ecosystems as though 
+they move independently. Our experience has 
+made clear that progress does not happen pillar 
+by pillar. Some of the most consequential work 
+ahead will be measured in whether we address 
+system challenges and help build the conditions for 
+long-term progress: more resilient grids, stronger 
+markets for lower-carbon materials, more effective 
+water stewardship, and infrastructure designed 
+and operated with local realities and community 
+priorities in mind. 
+For that reason, this year’s report takes a more 
+integrated approach—placing progress against 
+our commitments in the broader context of how 
+those commitments are operationalized across 
+our infrastructure and products. 
+What’s next 
+We are proud of what we have accomplished, 
+and we remain humbled by the scale of the 
+challenge ahead. 
+Responsibly building the AI future requires 
+clear accountability for what AI demands, 
+candor about real constraints and tradeoffs, 
+and sustained focus on outcomes that are 
+durable and broadly shared. 
+The chapters that follow show how we 
+translate that intent into execution across our 
+physical infrastructure, products, and value 
+chain—where our sustainability commitments 
+become operational reality. 
+Brad Smith 
+Vice Chair and President 
+Melanie Nakagawa 
+Chief Sustainability Officer 
+
+[PAGE 8]
+82026 Environmental Sustainability Report Overview Appendix Infrastructure Products 
+Our approach 
+Driving meaningful sustainability 
+progress requires choosing the right 
+intervention for the problem at hand. 
+Some challenges are best addressed 
+by reducing demand at the source, 
+while others require helping solutions 
+reach commercial scale. Still others 
+depend on the policies, infrastructure, 
+or local partnerships that make 
+progress possible. 
+At Microsoft, the path from sustainability 
+ambition to operational execution has relied on 
+applying technology and advancing cross-cutting 
+interventions that support progress toward our 
+commitments while supporting core elements of 
+our business. Four levers are especially important in 
+this phase: improving efficiency, building markets, 
+advancing policy, and forging partnerships. Together, 
+they help us reduce impact within our operations 
+and value chain while also shaping the broader 
+systems that influence sustainability progress. 
+In 2020, we set ambitious commitments 
+that continue to guide our environmental 
+sustainability strategy. We are working to: 
+■ Become carbon negative by 2030 by reducing 
+emissions across our operations and value chain, 
+and removing more carbon than we emit. 
+■ Become water positive by 2030 by reducing 
+water use, replenishing more than we withdraw, 
+expanding access to water and sanitation, and 
+supporting stronger water stewardship. 
+■ Become zero waste by 2030 by reducing waste 
+at the source, keeping products and materials 
+in use longer, and recovering what remains. 
+■ Protect ecosystems by applying data and 
+digital technologies and protecting more 
+land than we use by 2025. 
+We continue to publish our progress annually 
+as part of our commitment to transparency and 
+shared learning. This year, we are expanding 
+transparency through the addition of metro-
+level datacenter energy and water use, providing 
+greater insight into how our operations interact 
+with local resources and communities. This effort 
+also supports establishing a deeper understanding 
+of how digital infrastructure interacts with local 
+energy and water systems. 
+Sharing our approach provides important context 
+for progress: what Microsoft can change directly, 
+what depends on broader system conditions, 
+and where shared action is essential. 
+
+
+[PAGE 9]
+Our approach continued 
+9 2026 Environmental Sustainability Report Overview Appendix Infrastructure Products 
+Key levers that advance sustainability progress 
+Improving 
+efficiency 
+Across our commitments, efficiency is often the 
+first and most direct action we can take to reduce 
+our impact: using less energy, water, land, and 
+materials from the outset. At Microsoft, that means 
+designing infrastructure, products, and operations 
+to reduce resource demand before it has to be 
+managed, replenished, recycled, or removed. 
+Improving water efficiency in our datacenters is 
+one way we are addressing resource demand and 
+advancing our water positive goal. We use water 
+usage effectiveness (WUE)12 to help measure and 
+improve the efficiency of water used for datacenter 
+cooling and humidification. Through continuous 
+innovation—including advanced cooling 
+technologies, increased use of recycled and 
+reclaimed water, and next-generation designs that 
+can eliminate most water use for cooling—we 
+are driving sustained improvements in WUE and, 
+in some cases, working toward near-zero water 
+consumption in our datacenters. 
+Efficiency also extends across Microsoft products 
+and the value chains that support them. In 
+Windows, energy-saving features can help lower 
+electricity demand during use, while guidance 
+for more efficient workloads in GitHub can help 
+developers reduce the energy required to run 
+software and cloud services. In devices, packaging, 
+and cloud hardware, circular design helps reduce 
+waste and the need for new materials. The 
+less resource-intensive these systems become, 
+the stronger the foundation for every other 
+part of our strategy. 
+Building 
+markets 
+Some sustainability solutions are technically 
+possible before they are widely available, 
+affordable, or ready to be adopted. 
+Building markets is about helping close that 
+gap. At Microsoft, that means using investment, 
+procurement, and long-term demand signals 
+to help emerging solutions move from early 
+promise toward broader availability. 
+In 2020, we launched Microsoft’s Climate 
+Innovation Fund, a $1 billion investment mandate 
+designed to help promising sustainability solutions 
+move toward commercial scale. Since then, we have 
+allocated $815 million to a portfolio of 67 investees, 
+who collectively have attracted billions of dollars 
+in follow-on capital for solutions including lower-
+carbon materials, sustainable aviation fuels, and 
+carbon-free electricity (CFE).3 
+Carbon dioxide removal (CDR) shows how market-
+building can work in practice. Since 2020, Microsoft 
+has worked to help grow CDR markets by defining 
+criteria for high-quality carbon removal, structuring 
+early commercial contracts, and using procurement 
+to signal long-term demand. In 2025, we added  
+29 projects to our CDR portfolio, spanning five  
+continents and 10 distinct CDR pathways. We  
+expect these projects to contribute more than 
+45 million metric tons toward Microsoft’s carbon 
+goals over the next three decades. We also 
+structure long-term purchase agreements based 
+on the maturity and scale potential of different 
+CDR pathways—often 10 to 15 years for engineered 
+solutions and more than 20 years for nature-based 
+projects—helping suppliers secure financing, 
+improve revenue certainty, and expand deployment. 
+The goal is not only to buy the sustainability 
+solutions available today. It is also to help expand 
+the range of solutions available in the future—for 
+Microsoft and for others in the future—at greater 
+scale, with stronger quality standards and clearer 
+pathways for adoption. 
+
+[PAGE 10]
+Our approach continued 
+10 2026 Environmental Sustainability Report Overview Appendix Infrastructure Products 
+Advancing 
+policy 
+Policy often determines whether sustainability 
+solutions remain isolated pilots or scale into broader 
+adoption. Many of the conditions that shape that 
+transition sit beyond any single company, including 
+grid capacity and interconnection, permitting 
+and siting processes, sustainability standards and 
+disclosure expectations, climate data transparency, 
+and access to cleaner energy. 
+Microsoft engages with governments, regulators, 
+utilities, multilateral organizations, and industry 
+groups to help create the conditions that make 
+lower-impact choices more practical, transparent, 
+and widely available. 
+As electricity demand grows, grid modernization 
+is becoming one of the clearest examples of why 
+policy matters. Expanding access to CFE is not only 
+a question of how much clean power is procured; 
+it also depends on whether energy systems can 
+connect new projects, move electricity across 
+regions, accommodate new sources of demand, 
+and deliver power reliably where it is needed. 
+That requires planning, investment, and regulatory 
+frameworks that can keep pace with the scale of 
+electrification and digital infrastructure growth. 
+Microsoft supports this work in markets 
+where energy system constraints directly affect 
+our operations, our suppliers, and the pace 
+of decarbonization. In the United States and 
+Europe, that includes engagement on grid 
+modernization, expansion, and digitalization as 
+policymakers consider how to better integrate 
+digital infrastructure into the energy system. 
+In Asia, our work focuses in places where 
+Microsoft has technology hardware suppliers 
+and where decarbonization depends on cleaner, 
+more reliable electricity. Across these regions, 
+priorities include transmission expansion, 
+faster interconnection, greater transparency, 
+and clearer access pathways for CFE. 
+Across our policy engagement, the common thread 
+is practical: sustainability solutions need more 
+than technical readiness. They need standards that 
+reward better performance, data that supports 
+climate-smart decisions, and policy frameworks 
+that help markets scale. When policy, technical 
+expertise, and infrastructure planning move 
+together, they can help make the systems behind 
+sustainability progress faster to build, easier to 
+evaluate, and more durable over time. 
+We engage on policy to help 
+create the conditions that 
+make lower-impact choices 
+more practical, transparent, 
+and widely available. 
+
+
+[PAGE 11]
+Our approach continued 
+11 2026 Environmental Sustainability Report Overview Appendix Infrastructure Products 
+Forging 
+partnerships 
+Some sustainability challenges are too 
+interconnected for any one organization to 
+address alone. Partnerships help connect 
+Microsoft’s commitments to the people, places, 
+and systems that shape lasting progress. 
+Partnerships help connect 
+Microsoft’s commitments 
+to the people, places, 
+and systems that shape 
+lasting progress. 
+That includes the communities where we build 
+and operate, suppliers across our value chain, 
+customers applying technology to advance 
+their own sustainability goals, and researchers, 
+nonprofits, governments, and industry groups 
+working toward shared solutions. 
+As AI infrastructure grows, partnership is 
+essential to building in ways that reflect local 
+priorities. Through Microsoft’s Community-First AI 
+Infrastructure plan, we work with local jurisdictions, 
+utilities, nonprofits, and community partners to 
+better align datacenter growth with community 
+needs. That includes collaboration on energy and 
+water priorities, local jobs and AI skill-building, 
+and long-term community investments that 
+help ensure infrastructure growth contributes 
+to the places where we operate in ways that 
+are meaningful to the community itself.
+Partnerships also help extend Microsoft’s 
+sustainability work beyond our own operations. 
+Across our supply chain, we work with suppliers to 
+lower barriers to decarbonization. Through our AI for 
+Good Lab, we partner with researchers, nonprofits, 
+and governments to turn data and technology 
+into practical tools for water resilience, ecosystem 
+conservation, and climate action. In this way, 
+partnerships connect across our sustainability work, 
+connecting what Microsoft can do directly with the 
+broader systems where progress must scale.
+Through our AI for Good Lab, we work with 
+research institutes and nonprofits to develop 
+AI tools that enable faster analysis and more 
+targeted interventions. In partnership with 
+Wild Nature Institute, we developed GIRAFFE, 
+an open-source tool to help conservationists 
+track and protect Tanzania’s endangered 
+giraffes. Learn more here.
+Addressing system challenges 
+None of these interventions work in 
+isolation. Improving efficiency, building 
+markets, advancing policy, and forging 
+partnerships each address a different part 
+of the same challenge: turning sustainability 
+ambition into practical progress across 
+complex systems.
+The chapters that follow show how we’re 
+applying these and other interventions 
+across the infrastructure needed to support 
+cloud and AI services and the products 
+and experiences we build.
+
+[PAGE 12]
+12 2026 Environmental Sustainability Report Appendix Products Infrastructure Overview 
+Infrastructure 
+In this section 
+Introduction 13
+Datacenters 14
+Scaling energy solutions 28
+Advancing carbon dioxide removal 32
+Campuses 35
+Investing where we live and work 39
+Looking ahead 41
+
+[PAGE 13]
+13 2026 Environmental Sustainability Report Appendix Products Infrastructure Overview 
+Infrastructure for the 
+AI future 
+Most customers know Microsoft for its digital 
+infrastructure—the tools and platforms that 
+support productivity, innovation, and intelligent 
+systems across industries. But behind these tools 
+is a growing network of physical infrastructure: 
+datacenters and campuses, along with the supply 
+chains that connect them and the energy systems 
+that power them. 
+These systems are where many of our sustainability 
+commitments are put into practice. As we expand 
+capacity, so do the associated impacts: from 
+electricity and water use to materials, transport, 
+end-of-life management, and the emissions 
+associated with all of them. This makes every 
+decision about how we design, build, and operate 
+our physical infrastructure an opportunity to work 
+towards our long-term sustainability goals. 
+As we continue to advance innovation across 
+Microsoft’s physical infrastructure, we know that 
+progress must also extend beyond Microsoft’s 
+own operations. As technology infrastructure is 
+closely connected to broader energy and industrial 
+systems, meaningful change depends on collective 
+action to expand access to carbon-free electricity 
+(CFE),3 strengthen grid resilience, partner with 
+suppliers to reduce value chain emissions, and 
+scale solutions for emissions that remain difficult 
+to abate, including carbon removal. Together, 
+these efforts show how Microsoft is working to 
+build the physical systems enabling innovation 
+in ways that support a more sustainable future. 
+
+
+[PAGE 14]
+14 2026 Environmental Sustainability Report Overview Appendix Infrastructure Products 
+Datacenters 
+Every cloud and AI interaction relies on 
+physical infrastructure—the datacenters, 
+servers, networking equipment, and 
+systems that make digital services 
+possible. As AI adoption accelerates, 
+the infrastructure behind it is emerging 
+as one of the defining resource 
+challenges of this decade—and one 
+of the most important opportunities 
+to advance sustainability. 
+This reality underscores the urgency to manage 
+datacenter growth responsibly, for Microsoft and 
+for the broader technology sector. It also highlights 
+a significant opportunity to improve efficiency, 
+accelerate lower-impact design, and reduce the 
+resources required to deliver the capacity that 
+people and organizations increasingly rely on. 
+At Microsoft, we are focused on managing the 
+environmental impact of our datacenters across 
+their full lifecycle. This means taking an end-to-
+end approach: 
+■ Designing facilities that use energy, water, 
+and materials more efficiently. 
+■ Building them with lower-carbon materials 
+and methods. 
+■ Operating them in ways that advance 
+sustainability while enabling growth. 
+Integrated into this approach is our continued 
+focus on delivering long-term, community-
+centered outcomes and building infrastructure 
+in ways that strengthen the communities where 
+we live and work. 
+
+
+[PAGE 15]
+15 2026 Environmental Sustainability Report Overview Appendix Infrastructure Products 
+Datacenters continued 
+Delivering community-first 
+AI infrastructure 
+In 2024, Microsoft launched its Datacenter 
+Community Pledge to set expectations for how we 
+design, build, and operate infrastructure in ways 
+that create tangible local benefits. In 2026, we built 
+on that foundation with our Community-First AI 
+Infrastructure plan, which responds more directly 
+to the priorities that communities most often raise 
+as new AI infrastructure grows. 
+Initially launched in the United States, the plan 
+focuses on four areas where those concerns are 
+often felt most directly: 
+■ Electricity—We will work with local 
+jurisdictions so our datacenters do not 
+increase electricity prices for customers. 
+■ Water—We will minimize water use and 
+replenish water in priority regions. 
+■ Skilling—We will invest in local hiring and 
+workforce development, including AI skills 
+and support for nonprofit organizations. 
+■ Community investment—We will contribute 
+to the local tax base and support long-term 
+community investment. 
+We are beginning to put these priorities into 
+practice through partnerships across energy 
+systems, water resources, workforce development, 
+and investment. 
+Throughout this chapter, examples from design, 
+construction, operations, water stewardship, and 
+ecosystem work show how these frameworks 
+are taking shape in practice. 
+
+[PAGE 16]
+162026 Environmental Sustainability ReportOverview Appendix Infrastructure Products162026 Environmental Sustainability Report Appendix Products Infrastructure Overview 
+Datacenters continued 
+Advancing 
+datacenter 
+sustainability 
+At Microsoft, we are focused on 
+managing the environmental impact 
+of our datacenters across their 
+full lifecycle. This means taking an 
+end-to-end approach to help advance 
+sustainability from how we design, 
+to how we build, to how we operate 
+our datacenters.
+Key 
+How we design 
+How we build 
+How we operate 
+Examples of innovations deployed across Microsoft’s datacenter portfolio; 
+technologies vary by location and design. 
+Designing for 
+local conditions 
+and ecosystems 
+Improving power 
+and compute efficiency 
+Timber 
+framing 
+Low-carbon 
+concrete 
+Green 
+steel 
+Certifying 
+datacenter 
+performance 
+through LEED 
+Advancing energy markets 
+Strengthening 
+water replenishment 
+Investing in clean power 
+and fuels 
+Strengthening 
+rare earth element 
+circularity 
+Reducing emissions 
+in our logistics network 
+Reducing waste 
+in datacenter 
+construction 
+and operations 
+Improving 
+circularity of 
+cloud hardwareRepurposing 
+waste heat 
+Advancing low-carbon construction materials 
+Supporting community 
+ecosystem restoration 
+Reducing water 
+consumption for cooling 
+Read more on page 17
+Read more on page 20
+Read more on page 22
+
+[PAGE 17]
+17 2026 Environmental Sustainability Report Overview Appendix Infrastructure Products 
+Datacenters continued 
+How we 
+design 
+A significant share of a datacenter’s 
+lifetime emissions are determined 
+before it is even operational, driven 
+by early decisions about materials, 
+structure, and system design. 
+At Microsoft, we are working to address the 
+environmental footprint of our datacenters from 
+the start. We are advancing next-generation 
+cooling technologies that minimize freshwater use, 
+reducing carbon through more energy-efficient 
+infrastructure and lower-carbon building materials, 
+and embedding circularity into our operations to 
+extend the life of servers and components through 
+reuse and recycling. These and other design 
+choices help ensure our growing infrastructure 
+is built to support and advance sustainability. 
+Embedding carbon reduction 
+across design 
+In support of our carbon targets, we are working 
+to reduce the embodied carbon5 of each project 
+design by 30% from our baseline datacenter 
+design. We use three primary strategies: 
+■ Design efficiency. We’re optimizing structural 
+grids—the internal skeleton of a building—and 
+minimizing the volume of construction materials 
+needed, without compromising performance. 
+■ Materials innovation. We’re increasing the 
+use of lower-carbon concrete and steel 
+(discussed in detail later in the chapter). 
+■ Strategic procurement. We’re using 
+environmental product declarations (EPDs)6 
+to inform materials selection and focus on 
+lower-carbon options, helping to accelerate 
+market adoption. 
+We’re also championing innovative approaches 
+to datacenter design. For example, our multi-story 
+datacenters can reduce embodied carbon by 
+15–25% and use less land than our standard design. 
+We have also piloted constructing datacenters with 
+hybrid mass timber, a strong and ultralightweight 
+wood, which has demonstrated a reduction up to 
+35% in structural embodied carbon7 compared 
+to datacenters designed with conventional 
+steel frames. 
+We are working to 
+address the environmental 
+footprint of our datacenters 
+from the start. 
+Up to 35% 
+reduction in structural embodied carbon 
+with our hybrid mass timber datacenters.
+
+[PAGE 18]
+18 2026 Environmental Sustainability Report Overview Appendix Infrastructure Products 
+Datacenters continued 
+Improving water and energy 
+efficiency for cooling 
+Cooling is one of the most resource-intensive 
+aspects of operating a datacenter, making it a 
+longstanding focus of Microsoft’s efforts to improve 
+efficiency and reduce environmental impact. As 
+servers operate, they generate heat that must be 
+managed continuously. Doing so requires energy 
+and, in many conventional cooling systems, water 
+through evaporation. Improving how we cool 
+our infrastructure is therefore central to reducing 
+its overall environmental footprint. We employ 
+multiple strategies to increase the efficiency of 
+datacenter cooling: 
+■ Liquid cooling: In 2024, we introduced a new 
+cooling system design that brings liquid coolants 
+directly to our servers’ chips, where the heat is 
+generated. This approach avoids evaporative 
+cooling altogether by circulating liquid in a closed 
+loop between servers and chillers, preventing 
+continuous water loss. We expect this design 
+to avoid the need for more than 125 million liters 
+of water per year, per datacenter. 
+■ Microfluidics: In 2025, Microsoft continued its 
+efforts to advance chip-level cooling through 
+technologies such as microfluidics, which uses 
+silicon-etched channels to carry cooling liquid 
+directly to a computer chip’s warmest spots. 
+Using AI, we optimize the pattern of the channels 
+to concentrate cooling where it’s needed most 
+based on the type of chip. 
+■ Zonal cooling: In datacenters where liquid-based, 
+chip-level cooling is deployed, we are continuing 
+to refine these systems to further reduce water 
+consumption. Our latest design uses a zonal 
+cooling strategy, which allows warmer water to 
+cool most IT equipment, and only directs cooler 
+liquid to higher-heat, high-intensity workloads, 
+improving energy efficiency. We aim to use 
+zonal cooling wherever feasible. 
+Certifying datacenter performance 
+through LEED 
+Microsoft designs new datacenters worldwide 
+to achieve LEED Gold certification. In 2025, 
+25 Microsoft datacenter projects achieved this, 
+bringing our global total to 80 certified projects. 
+We remain the only large-scale cloud services 
+provider participating in the LEED Volume Program, 
+which is designed to ensure consistent performance 
+across sites. 
+Designing for local conditions 
+and ecosystems 
+Each datacenter site presents unique 
+environmental and ecosystem conditions. 
+We adjust design elements—such as planting 
+and grading—to respond to local climate, water, 
+and land characteristics. Our design teams tailor 
+projects to these conditions, prioritizing native 
+landscaping and efficient irrigation in drought-
+prone regions and improving insulation and 
+heating efficiency in colder climates. 
+We’re exploring site-specific strategies to 
+support native species and improve long-term 
+site resilience. At our future Ohio datacenter site, 
+this includes a pilot ecosystem enhancement 
+strategy that uses a native seed mix tailored to 
+local conditions. This strategy aims to support 
+rapid vegetative cover, erosion control, and 
+long-term biodiversity, while requiring less 
+ongoing maintenance. 
+Improving how we cool our 
+infrastructure is central 
+to reducing its overall 
+environmental footprint. 
+
+[PAGE 19]
+19 2026 Environmental Sustainability Report Overview Appendix Infrastructure Products 
+Datacenters continued 
+In FY25, we partnered with local nonprofits, 
+municipalities, and volunteers to plant over 
+150,000 native trees. These efforts contribute to 
+habitat creation while supporting functions such 
+as stormwater filtration, shade, carbon capture, 
+and soil stabilization. 
+Through our partnership with the Society for 
+Ecological Restoration (SER), we are working 
+to scale this approach. To date, we’ve funded 
+30 ecological restoration projects covering 
+more than 600 acres and engaging over 9,000 
+community members in environmental programs. 
+We also work to mitigate the local environmental 
+impacts of the datacenter infrastructure itself. 
+To reduce the heat island effect, our datacenter 
+projects typically include high-reflectance 
+roofing, permeable pavements, and vegetated 
+surfaces. These adaptations align with LEED Heat 
+Island Reduction guidance and can help lower 
+local surface temperatures, improve stormwater 
+infiltration, and create cooler microclimates. 
+Supporting community 
+ecosystems 
+At our Dublin, Ireland datacenter, an elevated 
+landscaped area planted with native species 
+works to enhance habitats while also improving 
+soil quality, managing stormwater, and providing 
+visual screening. In Amsterdam, Netherlands, 
+our site-specific approach has included the 
+creation of two small forests based on the 
+Miyawaki method at nearby schools, with the 
+aim of contributing to habitat connectivity 
+and supporting vegetation growth in 
+surrounding areas. 
+We also work with partners to support 
+ecosystem restoration in communities near 
+our datacenters. At our Boydton, Virginia 
+campus, a large-scale effort restored over 
+16,300 linear feet of streams and 185 acres of 
+pollinator habitat, and created over three miles 
+of ADA-accessible walking trails. The project 
+also included educational programming with 
+local schools and libraries, linking environmental 
+restoration with community learning. 
+Small forests 
+in Amsterdam 
+Vegetated 
+berms in Dublin 
+Dublin 
+datacenter 
+
+[PAGE 20]
+20 2026 Environmental Sustainability Report Overview Appendix Infrastructure Products 
+Datacenters continued 
+How we 
+build 
+How a datacenter is built can 
+influence its environmental footprint 
+throughout its lifetime. At Microsoft, 
+we are working to reduce the impact 
+of datacenter construction by 
+advancing lower-carbon materials, 
+minimizing construction waste, and 
+improving how datacenters are built 
+from the ground up. 
+Advancing low-carbon 
+construction materials 
+Concrete and steel are among the largest sources 
+of embodied carbon in construction, accounting 
+for 8% and 7% of global carbon dioxide emissions, 
+respectively.8,9 Through research undertaken by 
+Microsoft Research and collaborations supported 
+by our Climate Innovation Fund (CIF), we are 
+exploring how to deploy lower-carbon alternatives. 
+Piloting low-carbon concrete 
+In 2025, we completed rigorous field testing for 
+two lower-embodied-carbon concrete products 
+developed by suppliers Ozinga and Urban Mining 
+Industries. These mixes use waste materials, 
+such as blast furnace slag and recycled glass, to 
+replace a portion of Portland cement—a key driver 
+of emissions in conventional concrete—which 
+can substantially reduce the embodied carbon. 
+Based on the results of performance testing, 
+we plan to pilot lower-carbon concrete mixes 
+in select datacenter builds, with potential for 
+broader integration over time. 
+Elsewhere, Microsoft and University of Washington 
+researchers used machine learning to accelerate 
+the design and testing of lower-carbon cement 
+formulations incorporating algal biomaterial. 
+This work identified a formula with 21% lower 
+global warming potential.10 
+Expanding the market for green steel 
+To support the development of lower-carbon 
+alternatives to conventional steel, Microsoft 
+has partnered with steel company Stegra, which 
+is building the world’s first large-scale green 
+steel plant in northern Sweden. Through this 
+agreement, Microsoft expects to secure near-
+zero-emissions steel, along with environmental 
+attribute certificates,11 over seven years. 
+Supported by CIF, this agreement helps expand 
+the market for low-carbon construction materials 
+by providing our datacenter suppliers with access 
+to Stegra’s steel, which is manufactured with up to 
+95% lower emissions. It also supports our goal to 
+be carbon negative by 2030 while driving broader 
+adoption across the construction value chain. 
+Up to 95% 
+lower emissions with 
+Stegra’s green steel. 
+
+[PAGE 21]
+21 2026 Environmental Sustainability Report Overview Appendix Infrastructure Products 
+Datacenters continued 
+Reducing waste in 
+datacenter construction 
+In FY25, we diverted 90.5% of our construction 
+and demolition waste from landfills and incinerators, 
+exceeding our target for the second year in a row. 
+Our zero-waste strategy for datacenter construction 
+starts with detailed planning. At Microsoft, we set 
+construction and demolition waste management 
+plans that establish expectations for waste handling 
+throughout the work. Processes are put in place 
+to separate waste streams, identify recycling and 
+reuse facilities, and report diversion data every 
+month over the course of each project. 
+These practices support high rates of material reuse 
+and diversion from landfills. In line with our target, 
+the majority of LEED-certified Microsoft datacenter 
+construction projects divert at minimum 75% of 
+construction and demolition waste from landfills 
+and incinerators. 
+We are also exploring ways to drive further 
+diversion from landfill or incineration by 
+incorporating circular economy principles into 
+our datacenter construction and demolition waste 
+management strategy. At a Microsoft UK site, for 
+example, we successfully deconstructed existing 
+structures and removed steel components for 
+potential reuse in the new datacenter construction. 
+90.5% 
+diversion rate achieved for 
+construction and demolition waste. 
+Reducing generator emissions 
+during construction 
+Microsoft is testing lower-emission alternatives 
+to fossil fuel generators in construction settings. 
+Our partnerships with Instagrid and Ferrovial show 
+how battery-powered temporary power systems 
+can be used in place of conventional generators. 
+Three portable Instagrid IG ONE units were used 
+during concrete work at our Madrid datacenter, 
+helping to reduce onsite generator emissions 
+and improve worker safety through lightweight, 
+cable-free equipment. 
+
+[PAGE 22]
+22 2026 Environmental Sustainability Report Overview Appendix Infrastructure Products 
+Datacenters continued 
+How we 
+operate 
+How we operate our datacenters is 
+a critical lever in reducing emissions 
+as demand for cloud and AI services 
+grows. Thoughtful, intentional 
+operational decisions—across how 
+electricity is sourced and used, 
+how water is managed, and how 
+materials and hardware are kept in 
+circulation—can improve efficiency, 
+lower resource intensity, and support 
+more sustainable growth over time. 
+Energy 
+Advancing energy markets 
+Matching our datacenters’ electricity usage with 
+CFE is an important tool for reducing the emissions 
+associated with our operations. As demand for 
+AI and cloud services grows, expanding access 
+to CFE while improving how that energy is used 
+is critical to reducing overall impact.
+Expanding deployment of CFE is a key part of our 
+approach. In FY25, we achieved our milestone to 
+match 100% of our annual electricity consumption 
+with renewable energy.2 This helps decarbonize 
+Microsoft’s operations while supporting the 
+development of new CFE supply on power grids, 
+often targeting local grids where we operate. 
+These efforts also contribute to broader changes 
+in the energy systems where we operate. Since the 
+beginning of the program, we have agreements 
+encompassing up to 40 gigawatts (GW) of new 
+renewable energy across 26 countries, which 
+include frameworks like our 2024 agreement with 
+Brookfield for up to 10.5 GW. This helps expand 
+carbon-free electricity availability and support 
+innovation in power markets. Of that volume, 
+19 GW are now online.
+We are also reducing reliance on fossil diesel by 
+expanding the use of renewable diesel fuel (RD). 
+This includes increasing the use of hydrotreated 
+vegetable oil to roughly 60% of our datacenters in 
+Europe—including sites in Dublin and Amsterdam. 
+As of the end of 2025 we also use RD in Phoenix, 
+San Antonio, and Atlanta in the United States. 
+To address the rising power demands of AI, 
+Microsoft Research is exploring new approaches 
+to how datacenters are sited and connected to 
+energy systems. This includes investigating the 
+deployment of smaller, modular datacenters at 
+renewable energy sites. Currently in the simulation 
+stage, this work explores how AI workloads can 
+be distributed across locations based on the 
+availability of CFE. This approach could allow 
+AI workloads to help manage intermittency 
+as a portfolio—balancing variability in energy 
+availability across locations—rather than relying 
+solely on storage or backup generation. 
+100% 
+of our annual global electricity 
+consumption matched with 
+renewable energy. 
+
+
+[PAGE 23]
+23 2026 Environmental Sustainability Report Overview Appendix Infrastructure Products 
+Datacenters continued 
+Improving power and compute efficiency 
+Improving how power and compute are used 
+across our datacenters is a key part of reducing 
+operational resource intensity as demand for AI and 
+cloud services grows. We focus on optimizing how 
+available capacity is used, reducing unnecessary 
+energy consumption, and improving efficiency 
+across hardware and workloads. 
+We also design and build Microsoft datacenters 
+with a fo
+cus on power usage effectiveness (PUE), 
+an industry-standard metric that describes how 
+efficiently a datacenter uses energy. PUE compares 
+the total energy required to operate a facility—
+including cooling, power distribution, and 
+supporting systems—to the energy used directly 
+by IT equipment such as servers and networks. 
+A PUE value closer to 1.0 indicates higher efficiency, 
+meani
+ng more of the energy consumed is used 
+for computing rather than overhead. At Microsoft, 
+we target a PUE as near to 1.0 as possible. In FY25, 
+our datacenters delivered a global average PUE 
+of 1.17. 
+We are improving energy efficiency 
+across o
+ur datacenters through several 
+complementary approaches: 
+■ Power harvesting: We are reallocating unused 
+power within existing datacenters to increase 
+utilization, allowing more workloads to run 
+without adding new infrastructure. This improves 
+efficiency and can reduce the need for additional 
+infrastructure over time, which may also lower 
+associated embodied carbon. In FY25, we 
+harvested over 690 megawatts (MW). 
+■ Low-power operating states: We are 
+reducing server energy consumption on select 
+unallocated servers. By the end of 2025, these 
+approaches had scaled to nearly 4 million 
+servers globally. 
+■ Hardware collaboration: We are working with 
+hardware vendors, including through codesign 
+effort
+s with Intel, to improve the energy 
+efficie
+ncy of allocated servers. 
+We are also improving how workloads are 
+distrib
+uted across our infrastructure. At LinkedIn, 
+engineering teams are improving visibility into 
+compute, storage, memory, and GPU utilization to 
+help identify underused capacity, improve resource 
+allocation, and support growing workloads more 
+efficiently. This work demonstrates how operational 
+efficiency can help reduce the resources required 
+to deliver digital services at scale. 
+25% 
+reduction in water usage effectiveness 
+in our owned datacenters since 2022. 
+
+[PAGE 24]
+24 2026 Environmental Sustainability Report Overview Appendix Infrastructure Products 
+Datacenters continued 
+Water 
+Reducing water use in our datacenters 
+Reducing water use in datacenter operations is a 
+key part of improving overall resource efficiency. 
+We focus on optimizing cooling systems, improving 
+water usage effectiveness (WUE),12 and reducing 
+reliance on municipal water supplies across 
+our owned datacenters. 
+Following an internal analysis of our standard 
+co
+oling systems, we improved them to 
+better control temperature and air conditions 
+while using less water. These adjustments 
+helped improve WUE by 23% in our Phoenix, 
+Arizona, datacenters in FY25 compared 
+to the previous year. We’re now deploying 
+these advancements across Microsoft-owned 
+datacenters with similar cooling systems. 
+Based on our FY25 global average WUE of 
+0.27 L/kWh, our owned datacenters have 
+ac
+hieved a 25% reduction in WUE since our 
+2022 baseline, progressing towards our 2030 
+target of a 40% reduction. 
+We have also reduced non-cooling water at select 
+da
+tacenters by implementing water efficiency 
+measures aligned with LEED guidance, helping 
+conserve local water resources, particularly in 
+drought-sensitive regions. 
+We are also reducing reliance on fresh 
+wa
+ter by deploying alternative water sources 
+where feasible. 
+Microsoft’s new datacenter in the Amsterdam 
+reg
+ion features a full-scale rainwater harvesting 
+system for a water-stressed13 environment. 
+Rainwater is collected and stored in the regional 
+aquifer through a partnership with the local utility. 
+The system is expected to collect more than three 
+times the water annually required for cooling, 
+with the remaining volume supporting reliable 
+water access for the local community. 
+Strengthening water replenishment 
+Replenishing water and expanding access are 
+core pillars of our water positive commitment. 
+We are strengthening this work by focusing on 
+wa
+tershed-scale projects to return more water 
+than we withdraw and strengthen long- term 
+watershed resilience. 
+Through our Community-First AI Infrastructure 
+ap
+proach, we seek to align these replenishment 
+and access investments with local priorities. We 
+work with communities and utilities to support 
+reliable water supplies, healthier ecosystems, and 
+more resilient water systems in the communities 
+where we operate. In FY25, we: 
+■ Strengthened our replenishment target to 
+focus on total water withdrawals,14 rather than 
+consumption.15 This more rigorous approach 
+aligns replenishment with the full volume 
+of water withdrawn across our datacenters,  
+not just the portion evaporated for cooling. 
+This approach improves accuracy and 
+consistency in how progress is measured 
+and reinforces our focus on positive impact 
+in priority regions. 
+■ Replenished over 14.2 million cubic meters (m3) 
+of water, which, for the first time, surpassed our 
+global water withdrawals.16 While we’re proud 
+of this milestone, our focus is on advancing 
+replenishment locally, working watershed 
+by watershed to replenish more water than 
+we withdraw in each priority region where 
+we operate. 
+■ Funded 24 new water replenishment projects, 
+estimated to provide more than 29 million m3  
+in volumetric water benefit over their lifetime. 
+To d
+ate, contracted projects represent more 
+than 133 million m3 of replenishment volume 
+over their lifetime17—the equivalent of 
+53,200 Olympic-sized swimming pools18—
+with our footprint now spanning 34 priority 
+locations globally. 
+We are focusing on 
+watershed-scale projects 
+to return more water 
+than we withdraw and 
+strengthen long term 
+watershed resilience. 
+
+[PAGE 25]
+25 2026 Environmental Sustainability Report Overview Appendix Infrastructure Products 
+Datacenters continued 
+Advancing water replenishment 
+In FY25 we replenished more water than we 
+withdrew—advancing a more rigorous, system-
+level approach to accountability than targeting 
+consumption alone. This progress reflects our 
+broader aim to build technology that gives 
+more than it takes, strengthening long-term 
+water resilience as we scale. 
+Find out more in our Data Fact Sheet 
+To date, contracted 
+projects represent more 
+than 133 million m3 of 
+replenishment volume 
+over their lifetime—
+the equivalent of 
+53,200 Olympic-sized 
+swimming pools. 
+We use primary data to calculate water withdrawal and consumption volumes. 
+We use estimates where primary data is not available. Values for all previous fiscal 
+years have been recalculated to improve accuracy in accordance with our internal 
+recalculation policy to include: 1) previously unreported water volumes due to 
+enhancements in our data-capture capabilities; and 2) the updated estimation 
+approach for water withdrawals and consumption originally applied beginning 
+in FY24, to ensure methodological alignment and year-over-year comparability. 
+A Withdrawals ReplenishmentCConsumptionB 
+FY21 FY22 FY23 FY24 FY25 
+12M 
+14M 
+16M 
+8M 
+10M 
+6M 
+4M 
+2M 
+0M 
+Water m 3 
+FY20 
+A 
+13,266,000 
+6,656,016 
+11,589,000 
+2,745,825 
+9,666,000 
+1,635,354 
+8,698,000 
+7,747,000 
+746,937 
+6,794,000 3,990,000 
+4,794,000
+5,329,000
+5,818,000 
+6,693,000 
+8,170,000 
+301,594 
+14,278,782 
+C B C B C C B B C B B C 
+A 
+A 
+A 
+A 
+A 
+
+[PAGE 26]
+26 2026 Environmental Sustainability Report Overview Appendix Infrastructure Products 
+Datacenters continued 
+Circularity 
+Reducing waste in datacenter operations 
+We’re driving down the operational waste in our 
+datacenters by prioritizing waste prevention and 
+embracing circular practices, in support of our 
+90% operational waste diversion target. One way 
+we’re operationalizing this approach is through 
+improving the circularity of our datacenter 
+uninterruptible power supply (UPS) batteries. 
+These batteries protect essential infrastructure 
+and data that Microsoft and our customers 
+increasingly depend on, by providing backup 
+power during grid interruptions and outages. 
+Because UPS batteries degrade over time, we’re 
+using their periodic replacement as an opportunity 
+to responsibly manage these resources. In FY25, 
+Microsoft successfully recycled over 2,100 metric 
+tons of UPS batteries globally, reducing waste 
+while recovering valuable materials. 
+Additionally, we’re continually searching for new 
+diversion opportunities for datacenter packaging 
+and logistics materials such as wood pallets. As we’ve 
+grown our network of haulers worldwide, we’ve 
+significantly increased the amount of wood that 
+we can route for recycling and reuse, successfully 
+diverting nearly 230 metric tons of wood this year. 
+By consistently measuring and managing materials 
+used in our datacenter operations, we identify 
+opportunities for additional reduction, reuse, 
+and diversion of datacenter material from landfill 
+and incinerators. 
+Improving circularity of cloud hardware 
+Our Circular Centers program is designed to 
+reduce datacenter e-waste by reusing, refurbishing, 
+and recycling decommissioned servers and 
+components. In FY25, we achieved a 92% reuse 
+and recycling rate across decommissioned 
+hardware, exceeding our 90% target for the 
+second consecutive year. 
+We continue to expand our Internal Reuse Program 
+to recover and redeploy decommissioned server 
+components that are no longer available through 
+commercial supply chains. This program tests 
+and recertifies components for reuse through our 
+growing network of Circular Centers, helping to 
+meet demand across Microsoft’s global operations 
+for spare parts. 
+We’re also advancing circularity through the 
+Microsoft Direct Recycling Program, a collaboration 
+with global recycling partners to improve material 
+recovery, gain insights on recycling efficiency, 
+and reduce waste. These efforts are supported 
+by Microsoft Dynamics 365 and are evolving 
+to incorporate AI-enabled automation including 
+robotic disassembly and autonomous material 
+handling to build efficiency and scale. Through 
+CIF, we have also invested in Molg, which uses 
+AI-driven robotics to autonomously and non-
+destructively disassemble datacenter hardware, 
+enabling the recovery of components for reuse, 
+remanufacturing, or recycling. 
+Improving reuse and recycling of cloud hardware 
+In FY25, Microsoft achieved a 92% reuse and recycling rate for servers and components, 
+exceeding its 90% target for the second consecutive year. This progress reflects continued 
+investment in circular solutions that reduce waste and recover materials while lowering 
+overall resource demand. 
+Recycled ReusedA B 
+2025 
+TARGET 90% 86.7% 
+76.0% 
+82.0% 
+89.4% 90.9% 92% 
+A A 
+A 
+A 
+A 
+A 
+FY20 FY21 FY22 FY23 FY24 FY25 
+100% 
+80% 
+60% 
+40% 
+20% 
+0% 
+Reused and recycled rate 
+B 
+B 
+B B 
+B 
+B 
+
+[PAGE 27]
+27 2026 Environmental Sustainability Report Overview Appendix Infrastructure Products 
+Datacenters continued 
+Strengthening rare earth element circularity 
+Improving circularity in critical mineral supply 
+chains is a priority, including rare earth elements 
+(REEs) used in datacenter hardware. 
+Through CIF, we’ve invested in companies 
+advan
+cing material recovery. This includes Cyclic 
+Materi
+als, which is pioneering advanced recycling 
+of REEs a
+nd critical materials. In partnership with 
+suppliers, we are improving recycling for end-
+of-life hard disk drives, enabling the recovery of 
+REEs like
+ neodymium along with other materials 
+used in d
+atacenter equipment. In 2025, Microsoft 
+received the Social Impact of the Year award 
+from the Gartner® Power of the Profession™ 
+Supply Chain Awards.19 
+These efforts support the return of critical materials 
+to the supply chain for reuse, reducing reliance 
+on virgin material extraction, diverting material 
+from landfill, and strengthening long-term 
+supply chain resilience. 
+We’re rethinking 
+waste heat not as a 
+byproduct, but as a 
+potential resource. 
+Repurposing waste heat 
+Microsoft is rethinking the heat generated in our 
+datacenters, treating it not simply as a byproduct 
+to be managed, but as a potential resource to share 
+where f
+easible. Through waste heat reuse (WHR), 
+we are exp
+loring how this energy can be captured 
+and applied to nearby systems and community 
+uses, rather than dissipated. In some cases, this 
+can offset thermal or energy demand elsewhere, 
+helping to improve overall system efficiency while 
+providing local benefits. 
+For every 1 MW of heat repurposed externally, 
+cooli
+ng demand can be reduced by up to 1 MW, 
+reducing electricity required for cooling systems, 
+improving PUE, and lowering operational costs. 
+We are also exploring how WHR can support 
+applica
+tions such as direct air capture (DAC). 
+DAC sys
+tems historically have been difficult to 
+scale due to high energy demand, but supplying 
+them with datacenter waste heat could potentially 
+decrease electricity consumption by more than 
+20% while increasing productivity by more than 
+20%. Early investigations suggest that repurposing 
+just 1 MW of waste heat for DAC could enable 
+the removal of up to 5,000 metric tons of carbon 
+dioxide annually, turning a previously unused 
+resource into a scalable climate-positive solution. 
+This work is supported through leadership in 
+the Ope
+n Compute Project (OCP) Heat Reuse 
+Subproj
+ect, which aims to help drive industry 
+innov
+ation for scalable heat reuse. 
+Diverting rack packaging 
+Server racks require protective packaging during 
+transport and deployment across our datacenters. 
+In 2025 we expanded our recycling and reuse 
+capabilities for server rack packaging across all 
+owned datacenters, enabling us to divert more 
+than 9,000 metric tons of server-rack delivery 
+packaging waste from landfills and incinerators. 
+To improve circularity in the design of our 
+rack p
+ackaging, we are now working towards 
+incorporating 75% circular content20 in the 
+packaging for servers and components by 2030, 
+in partnership with suppliers, certifying bodies, 
+and logistics partners. 
+9,000 
+metric tons of server-
+rack delivery packaging 
+waste was diverted from 
+landfills and incinerators. 
+
+[PAGE 28]
+28 2026 Environmental Sustainability Report Overview Appendix Infrastructure Products 
+Scaling energy solutions 
+As demand for cloud and AI infrastructure increases, so does Microsoft’s 
+need for clean, reliable energy. Continued progress will likely require a broader 
+CFE portfolio, continued investment in new technologies, stronger grids, 
+and continued collaboration with utilities, regulators, and partners.
+Sustaining pace with the infrastructure and energy 
+needs of growth will require a diverse portfolio 
+of new carbon-free energy projects, along with 
+increasingly sophisticated tariff structures and 
+energy supply agreements with utilities, regulators, 
+and partners to expand the integration of new 
+clean energy supply as our energy footprint grows.
+Investing in clean power and fuels 
+Through CIF, we support the development and 
+commercialization of energy solutions that help 
+change how power is generated and lower-carbon 
+fuels are produced. These investments focus on 
+practical technologies that support our energy 
+needs while also contributing to wider energy 
+system transformation across diverse markets.
+Microsoft also supported clean energy 
+infrastructure in markets where investment 
+can help accelerate the shift away from fossil 
+fuels. Microsoft led private sector investment 
+in the Southeast Asia Clean Energy Facility, 
+which provides early-stage funding for clean 
+energy projects in a region where coal remains 
+a major part of the energy mix. 
+Since then, the facility has mobilized $230 million 
+in private sector debt and equity—more than 
+100 times Microsoft’s initial contribution. Elsewhere, 
+Microsoft backed Konexa, an integrated power 
+company in Nigeria, by providing construction 
+finance for a trading platform and distribution 
+infrastructure that links Heineken, a major power 
+consumer, to renewable energy. 
+Sustainable fuels are another important component 
+of our decarbonization portfolio. CIF continues 
+to invest in companies advancing sustainable 
+fuels production for Microsoft and the broader 
+market. Twelve, which transforms carbon dioxide 
+into chemicals, fuels, and materials, raised 
+$645 million in follow-on funding—one of the 
+largest financing rounds in the e-fuels21 space 
+to date. Dimensional Energy secured the first 
+commercial deployment of its catalyst technology 
+for applications including base oils, sustainable 
+aviation fuel (SAF), and diesel. Its British Columbia 
+plant processes one ton of carbon dioxide per day 
+from a cement flue stack into synthetic crude.
+
+[PAGE 29]
+29 2026 Environmental Sustainability Report Overview Appendix Infrastructure Products 
+Scaling energy solutions continued 
+Investing in power 
+innovation 
+In 2025, CIF-backed companies advanced 
+a range of clean power technologies. 
+Eavor Technologies completed the first 
+operational loop of its closed-loop 
+geothermal system in Geretsried, Germany, 
+marking an important step toward scaling 
+geothermal energy as a reliable source of 
+sustainable energy. VEIR also demonstrated 
+its patented superconducting technology 
+by delivering 3 MW of power in a simulated 
+datacenter environment, proving its potential 
+to power AI factories and datacenters with 
+a smaller physical footprint. 
+Supporting clean, 
+community-based energy 
+As Microsoft works to expand access to CFE, 
+part of that effort involves supporting smaller-scale, 
+community-based energy projects that can deliver 
+both clean power and local benefits. These projects 
+help broaden access to renewable electricity 
+while also supporting workforce development, 
+community investment, and more resilient local 
+energy systems. 
+In FY25, Microsoft continued to expand distributed 
+generation at scale. Building on the 500-MW Pivot 
+Energy framework agreement announced in 2024, 
+Microsoft signed a suite of agreements enabling 
+up to 1.5 GW of projects across approximately 100 
+communities in 20 US states. These projects are 
+intended to support local energy needs, workforce 
+development, community investment, and lower 
+energy costs for low-income households through 
+Sustain Our Future Foundation.22 
+Additional partnerships with Nexamp, Clearloop, 
+Sunwealth, and Powertrust are helping extend 
+this approach across the United States, Brazil, 
+and Mexico. Together, these projects support 
+community solar and distributed energy 
+generation, with benefits that include local jobs, 
+energy bill savings, investment in underserved 
+communities, and support for schools, affordable 
+housing providers, small and mid-sized businesses, 
+and other community-serving institutions. 
+We also work through coalitions to scale 
+community-centered renewable energy 
+development. This includes the Acadia 
+Infrastructure Capital Climate and Communities 
+Investment Coalition, which helps companies 
+support clean energy projects that provide 
+community benefits across the United States. 
+Advancing nuclear energy 
+Nuclear energy will play a powerful role 
+in a decarbonized energy future. Microsoft is 
+exploring nuclear energy as a potential source 
+of CFE to help meet growing demand from 
+datacenters and AI infrastructure. Because it 
+can provide consistently available, high-capacity-
+factor23 power, nuclear can play a role in 
+supporting AI and cloud workloads as a part 
+of a broader CFE portfolio. 
+We use a structured framework to assess nuclear 
+opportunities, including technical, regulatory, 
+and commercial viability. This includes reviewing 
+technology maturity, licensing feasibility, 
+supply chain readiness, and deployment strategy. 
+We’re working with nuclear developers, suppliers, 
+and utilities to refine licensing pathways, and 
+using AI to improve deployment models and 
+commercialization timelines. 
+One example is our power purchase agreement 
+with Constellation to restart the Crane Clean 
+Energy Center, formerly known as the Three 
+Mile Island Unit 1 reactor. Decommissioned in 
+2019 due to economic reasons, the facility offers 
+a model for evaluating how conventional fission 
+could support Microsoft’s long-term CFE portfolio. 
+We are also exploring the potential of fusion 
+as a next-generation source of CFE. Through 
+our agreement with Constellation, Microsoft 
+is partnering with Helion Energy, which is 
+constructing its first commercial fusion plant 
+in Washington state with the aim of delivering 
+clean, consistently available power. 
+Fusion still presents significant technical 
+challenges, including the need for materials that 
+can withstand extreme conditions inside reactors. 
+We’re partnering with the Princeton Plasma Physics 
+Laboratory, the International Thermonuclear 
+Experimental Reactor, and the Swiss Federal 
+Institute of Technology to explore how AI, high-
+performance computing, and digital engineering 
+can help identify new options. 
+
+[PAGE 30]
+Metric tons CO2 e 
+25M 
+20M 
+10M 
+5M 
+0M 
+15M 
+SCOPE 1 
+SCOPE 2 
+SCOPE 3 
+Indirect 
+emissions 
+from the 
+generation 
+of purchased 
+electricity, 
+steam, heat, 
+or cooling 
+Indirect 
+emissions 
+from all other 
+activities in 
+our value 
+chain 
+Direct   
+emissions 
+created by 
+a company’s   
+activities 
+Emissions FY20 
+12,881,000 
+FY21 
+13,772,000 
+FY22 
+13,635,000 
+FY23 
+16,112,000 
+FY24 
+16,215,000 
+FY25 
+20,290,000 
+30 2026 Environmental Sustainability Report Overview Appendix Infrastructure Products 
+Scaling energy solutions continued 
+Managing energy and emissions 
+Microsoft’s emissions increased in FY25, reflecting rapid cloud growth and a deliberate 
+shift toward long-term carbon-free electricity investments that add new capacity to grids. 
+Scope 2 and 3 emissions included in this chart are market-based. 
+Scope 3 emissions are management’s criteria values. Learn more in our Data Fact Sheet 
+Our total emissions (Scopes 1, 2, and 3) 
+increased 25% year over year, driven primarily 
+by the expansion of our datacenter infrastructure 
+and stopping our use of non-additional, 
+unbundled renewable energy certificates as 
+we prioritize investments that bring net new 
+power to grids. While this decision increases our 
+reported emissions in the near term, it enables 
+us to increase the development of new CFE rather 
+than relying on certificates alone. We believe this 
+approach will help drive more durable long-term 
+emissions reductions. 
+One of the clearest shifts this year was the 
+growing contribution of Scope 2 emissions, 
+which represented 13% of our total emissions, 
+up from nearly 2% last year. This development 
+underscores the growing role energy systems 
+play in shaping environmental outcomes and 
+why advancing CFE remains critical to long-term 
+progress. While Scope 3 remains the largest share 
+of our footprint overall, we continue working 
+with suppliers to advance decarbonization 
+across our value chain. 
+Strengthening grid infrastructure 
+and resilience 
+Microsoft continues to engage with governments 
+and regulators to help strengthen grid 
+infrastructure and ensure energy systems can 
+meet rising demand. In December 2025, the 
+European Commission announced the European 
+Grids Package, a legislative initiative aimed to 
+make the grid more digitalized, decentralized, 
+and flexible. Microsoft engaged with European 
+policymakers and grid operators to help 
+anticipate energy demand from the datacenter 
+sector and support better integration of digital 
+infrastructure into European grids. We continue 
+to advocate for grid expansion and optimization, 
+stronger integration of digital technologies in the 
+energy sector, and coordinated action to support 
+Europe’s decarbonization and electrification. 
+
+[PAGE 31]
+ 
+In Asia, Microsoft has put forward policy positions  
+on grid modernization in markets where rising  
+digital infrastructure demand intersects with  
+system constraints. This work is grounded  
+in markets where Microsoft has a significant  
+semiconductor or datacenter footprint—primarily  
+South Korea, Japan, Taiwan, and key Southeast  
+Asian markets. Across these regions, Microsoft  
+has  identified  priorities  including  transmission  
+expansion, interconnection reform, market  
+transparency, and access pathways for CFE,  
+and engaged governments, regulators, utilities,  
+and industry coalitions to help advance them. 
+In the United States, Microsoft engaged with  
+policy
+makers and regulators to strengthen   
+grid infrastructure and accelerate the buildout  
+needed to meet rising electricity demand. At   
+the federal level, we advocated for transmission  
+expansion and reforms to expedite permitting  
+and interconnection. We also engaged state  
+and federal policymakers to advance energy  
+affordability and new approaches for large  
+energy customers. 
+Microsoft also works with regulators to advance  
+sustainability standards for digital infrastructure.  
+In the European Union (EU), Microsoft engaged  
+with policymakers on the datacenter sustainability  
+rating scheme, sharing technical expertise on  
+how datacenters can be designed, built, and  
+operated with stronger sustainability and efficiency  
+outcomes. We advocated for a consistent, industry-
+wide approach across all EU member states that  
+rewards best-in-class sustainable infrastructure. 
+ 
+ 
+ 
+31 
+2026 Environmental Sustainability ReportOverview AppendixInfrastructure Products
+Scaling energy solutions continued 
+
+[PAGE 32]
+Advancing carbon dioxide removal 
+Even as Microsoft works to reduce emissions through more efficient 
+infrastructure, CFE, lower-carbon materials, and supply-chain action, 
+some emissions remain hard to abate on the timeline required and global 
+carbon balances have accumulated in recent decades. Carbon dioxide 
+removal (CDR) is part of a broader set of solutions and markets needed 
+to support long-term carbon progress. Since 2020, Microsoft has used 
+carbon removal procurement to help scale high-quality markets capable of 
+addressing emissions over time, including Microsoft’s historical emissions.
+Building the market for carbon removal 
+Since 2020 we’ve worked to grow the CDR market, 
+to support our carbon commitments, and to 
+advance carbon removal globally. We began 
+by defining criteria for high-quality CDR and 
+structuring some of the first commercial contracts 
+to purchase CDR credits. We’ve continued to 
+conduct due diligence on roughly 200 CDR 
+projects and use CDR procurement to signal 
+market demand.
+In 2025, our third year of signing long-term CDR 
+credit contracts, we added 29 projects to the 
+Microsoft CDR portfolio. We expect these projects, 
+spanning five continents and 10 distinct CDR 
+pathways, to contribute more than 45 million metric 
+tons toward Microsoft’s carbon goals over the 
+next three decades—the equivalent of removing 
+over 10 million internal combustion cars from 
+the road for a year.24
+Microsoft’s CDR portfolio balances low-durability 
+nature-based solutions and high-durability 
+engineered solutions, structured to maximize 
+rapid development of a high-quality market.25 
+Balancing our portfolio across engineered 
+and nature-based pathways spurs innovation, 
+diversifies risks, and provides more opportunity 
+for success. 
+Carbon dioxide removal  
+is part of the broader set  
+of solutions and markets  
+needed to support long-
+term carbon progress. 
+2026 Environmental Sustainability ReportOverview AppendixInfrastructure Products
+32 
+
+[PAGE 33]
+We’ve adapted our due diligence and contracting 
+approach based on the type of CDR, its relative 
+maturity, and its potential to scale. Building on 
+the playbook that has helped to rapidly scale wind 
+and solar energy, our long-term CDR purchase 
+agreements enable innovation and growth. For  
+engineered solutions, Microsoft CDR purchase 
+agreements often cover 10 to 15 years, enabling 
+developers to secure project financing based on 
+our creditworthy offtake, which improves revenue 
+certainty for suppliers and facilitates the raising 
+of additional financing. Our nature-based CDR 
+projects typically exceed 20 years, maximizing 
+the benefits of longer carbon sequestration cycles. 
+Microsoft structures  
+long-term CDR purchase  
+agreements that enable  
+innovation and growth. 
+33 
+2026 Environmental Sustainability ReportOverview AppendixInfrastructure Products
+Advancing carbon dioxide removal continued 
+45 million  
+metric tons of CDR contracted in FY25. 
+
+[PAGE 34]
+ 
+ 
+We are supporting the CDR market  
+by catalyzing new solutions, accelerating  
+learning, and contributing to outcomes  
+that deliver value beyond our own portfolio. 
+Scaling long-term carbon removal 
+Our carbon dioxide removal portfolio includes both  
+engineered and nature-based pathways, helping  
+diversify risk, support innovation, and expand the  
+range of available carbon removal solutions. 
+Bioenergy with carbon capture and storage (BECCS)  
+and afforestation, reforestation, and revegetation  
+(ARR) make up the majority of Microsoft’s portfolio,  
+reflecting their technical maturity and repeatability.  
+In FY25, Microsoft expanded commitments in  
+both areas, including agreements with CO280  
+and Stockholm Exergi in BECCS, and with Rubicon  
+Carbon and Chestnut Carbon in ARR. Together,  
+these projects show how long-term offtake can  
+help scale carbon removal while also supporting  
+industrial decarbonization, land restoration,  
+rural  livelihoods, and access to financing for   
+large-scale nature-based projects. 
+In FY25, Microsoft also began procuring long-
+term carbon removal through improved forest  
+management (IFM), soil organic carbon (SOC),  
+biochar, and biomass carbon removal and  
+storage (BiCRS). These pathways can offer  
+shorter  development timelines while contributing  
+additional ecological and land-use benefits.  
+Examples include projects with EFM and Anew  
+Climate in forest management,  Agoro Carbon  
+Alliance in soil carbon, Exomad Green in biochar,  
+and Vaulted Deep in BiCRS. 
+Testing and de-risking 
+emerging pathways 
+  
+In FY25, we continued investing in promising but  
+early-stage CDR pathways, including enhanced  
+rock weathering (ERW), direct air capture  
+(DAC), and ocean alkalinity enhancement (OAE).  
+Rather than using long-term offtake at this stage,  
+we are making smaller purchases to assess viability,  
+scalability, and environmental and community  
+impacts of these solutions. This included purchases  
+from ERW developers such as Undo, Eion, Lithos, 
+and Terradot, as well as a founding-buyer role with  
+Deep Sky, whose technology-agnostic hub model is  
+intended to help test and accelerate DAC pathways. 
+Our pilot purchases can help de-risk emerging  
+pathways, refine measurement, monitoring,  
+reporting, and verification (MMRV) protocols,26  
+and  identify  suppliers  capable  of  delivering  durable,  
+scalable climate impact. Through this work, we’re  
+committed to supporting the market by  catalyzing  
+new solutions, accelerating learning, and contributing  
+to outcomes that deliver value beyond our own  
+portfolio. We continue to seek partners that are  
+working on CDR solutions that combine scientific  
+rigor and operational excellence. 
+ 
+34 
+2026 Environmental Sustainability ReportOverview AppendixInfrastructure Products
+Advancing carbon dioxide removal continued 
+
+[PAGE 35]
+Campuses 
+Microsoft’s campuses are another important part of the physical infrastructure  
+behind our business, enabling how employees work, collaborate, build, and  
+connect with customers and communities every day. From offices, kitchens,  
+and transit systems to meeting spaces, energy systems, and landscapes,  
+campuses support the day-to-day operations, innovation, and experiences  
+that power Microsoft’s work. 
+ 
+ 
+Designing lower-impact workplaces 
+Choices about materials, retrofits, and workplace  
+design shape the carbon impact of offices from  
+the outset, which is why campus construction and  
+renovation are an important part of Microsoft’s  
+broader decarbonization work. 
+Our LinkedIn  4 Wilton Park campus in Dublin  
+illustrates that approach. Working with Flynn  
+Construction and the NGO Building Transparency, 
+LinkedIn used the Embodied Carbon in
+Construction Calculator
+  
+ to better understand  
+the carbon impact of materials and enable the  
+selection of lower-carbon options wherever  
+possible. Combined with matching 100% of the  
+campus’s electricity consumption with CFE, that  
+work resulted in the office receiving the Irish  
+Construction Industry’s Green Project of the  
+Year Award. In FY25, LinkedIn also introduced  
+biophilic design27 to 4 Wilton Park and the  
+London Experience Centre, integrating natural  
+materials, forms, and lighting to improve occupant  
+experience, strengthen connection to nature, and  
+reduce carbon impact. 
+Electrifying campus operations 
+On campuses, some of the most direct  
+opportunities to reduce Scope 1 emissions come  
+from everyday operations—especially kitchens  
+and vehicle fleets, where fossil fuel use still plays  
+a  meaningful role. Electrification helps address  
+those emissions at the source. 
+Building on the success of the all-electric kitchens  
+at One Esterra and East Campus in Puget Sound,  
+Microsoft expanded electrification to additional  
+campuses in FY25. In 2025, Microsoft opened  
+its first all-electric kitchen in Suzhou, China,  
+and added two more in India—a new build at  
+Hyderabad’s Central Kitchen and an electric retrofit  
+at Bengaluru Ferns. Together, these three kitchens  
+serve approximately 200,000 meals per month  
+to employees using fully electric  equipment. 
+Microsoft is also reducing direct emissions from  
+campus transportation by expanding the use of  
+electric vehicles (EVs) across Africa, Asia, Europe,  
+and North America. This includes growing our  
+office EV fleet to approximately 300 vehicles in  
+India and constructing a new bus charging depot  
+to power nine electric buses at our Dublin campus. 
+ 
+2026 Environmental Sustainability ReportOverview AppendixInfrastructure Products
+ 
+35 
+
+[PAGE 36]
+Harnessing geothermal 
+energy at our campus 
+ 
+At Microsoft’s Puget Sound campus, the  
+Thermal Energy Center taps geothermal  
+energy deep underground to heat and  
+cool new buildings through one of the  
+largest geoexchange fields in the United  
+States. Opened in July 2022, the all-electric  
+system was designed to run about 50%  
+more  efficiently  than  a  conventional  utility  
+plant serving the same load, based on  
+engineering modeling. 
+36 
+2026 Environmental Sustainability ReportOverview AppendixInfrastructure Products
+Campuses continued 
+ 
+Improving energy efficiency with data 
+Microsoft is reducing energy use across global  
+campuses through a range of efficiency initiatives.  
+These include heating, ventilation, and cooling  
+(HVAC) improvements at our Washington state  
+campuses, LED lighting upgrades in six European  
+offices, and occupancy-based HVAC controls in  
+our  Dominican Republic locations. 
+At our headquarters, we use early detection to  
+a
+utomatically  identify  and  track  energy  inefficiencies,  
+which are then triaged into maintenance orders.  
+In FY25, this work completed over 350 fixes,  
+delivering approximately 4,000 megawatt-hours  
+of annual energy savings. 
+Our technicians and managers also use digital tools  
+t
+o help optimize energy use in our buildings and  
+address inefficiencies more proactively. This year  
+our Campuses team partnered with our internal  
+IT team, leveraging Microsoft Dynamics 365 to  
+strengthen machine learning and AI-driven fault  
+detection and identify additional opportunities  
+to reduce emissions.  
+Across approximately 830,000 square feet of  
+LinkedIn campuses and office space, we’re using  
+predictive AI to improve building performance  
+optimization. By identifying opportunities to  
+improve utility performance and maintenance,  
+we can reduce energy and water use. 
+
+[PAGE 37]
+B Reused C Recycled D Composted A Reduced 
+2030 
+TARGET 90% 82.2% 80.7% 84.9% 82.0% 88.1% 81.1% 
+100% 
+80% 
+60% 
+40% 
+20% 
+0% 
+Diversion rate 
+B B 
+C 
+C C 
+C 
+C C 
+D 
+D D 
+D 
+D 
+D 
+FY20 FY21 FY22 FY23 FY24 FY25 
+B B B B A A 
+Conserving water through 
+engineering and reuse 
+ 
+ 
+To support Microsoft’s water positive commitment,  
+we’re reducing water use, prioritizing high-impact  
+water conservation projects, and embracing  
+targeted engineering solutions to improve water  
+stewardship across our campuses. 
+At one of our Chicago, Illinois, campuses, a  
+custom system captures and treats wastewater  
+used for cooling IT equipment so it can be reused  
+repeatedly. Combined with other efficiency  
+improvements, this has helped cut the campus’s  
+use of municipal water by more than 30% year  
+over year. 
+Across the broader real estate portfolio, we are  
+also implementing water conservation projects  
+such as smart water meters, automated irrigation  
+systems, upgraded restrooms, HVAC condensation  
+recycling systems, improved water treatment, and  
+rainwater harvesting systems. At our Hyderabad  
+campus, Microsoft installed an air-to-water system  
+using approximately 300 hydro-panels to extract  
+humidity and convert it into potable water. 
+Reducing campus waste and 
+keeping materials in use 
+ 
+ 
+Microsoft is working to reduce waste across  
+campuses by preventing it at the source,  
+expanding  reuse, and strengthening circular  
+systems in day-to-day operations, in line with  
+our 9  0% operational waste diversion target. 
+Microsoft has made significant strides towards  
+our zero-waste commitment across our campuses.  
+In FY25, eight of our campuses achieved   
+third-party zero-waste validation. Seven were  
+validated by UL Solutions based on landfill  
+diversion performance, while one was certified  
+through TRUE  for embedding zero-waste practices  
+into facility operations. Comprehensive waste  
+audits helped us identify the types and volumes  
+of waste generated, leading teams to emphasize  
+durable goods over single-use items, introduce  
+secondary sorting stations, and launch staff  
+education campaigns to prevent waste on campus. 
+Diverting operational waste from landfills and incinerators 
+In FY25, Microsoft diverted approximately 34,000 metric tons of operational waste from landfills and  
+incineration across datacenters and campuses. Continued focus on management of operational waste  
+helps to reduce environmental impact while keeping materials in use and strengthening more circular,  
+resource-efficient  operations. 
+Find out more in our Data Fact  Sheet 
+ 
+37 
+2026 Environmental Sustainability ReportOverview AppendixInfrastructure Products
+ 
+Campuses continued 
+
+
+[PAGE 38]
+Maintaining high diversion rates takes ongoing  
+effort. Since earning zero-waste validation in 2024,  
+our Dublin campus has continued to improve  
+diversion through a durable goods program,  
+expanding composting infrastructure, and  
+employee engagement. In São Paulo and Brasilia,  
+Brazil, and Bogotá, Colombia, campus teams  
+diverted more than two metric tons of end-of-life  
+furniture from landfills through internal auctions,  
+public sales, and donations, including local  
+donations to Laudes and Best Buddies. This builds  
+on the more than 1,900 metric tons of office  
+equipment Microsoft has donated to charities since  
+2010, in partnership with Green Standards. In FY25,  
+LinkedIn offices also diverted more than 90 metric  
+tons of furniture waste through a furniture reuse  
+program, avoiding over 270 metric tons of carbon  
+dioxide equivalent (mtCO₂e) emissions. 
+In FY25, LinkedIn offices diverted more than 
+90 metric  tons 
+of furniture waste through a furniture  
+reuse program. 
+Other efforts focused on building the local  
+infrastructure needed to divert waste that would  
+otherwise go to landfill. In FY25, Microsoft’s Fargo,  
+North Dakota, campus needed a permanent local  
+composting solution to divert organic waste, which  
+accounted for one-third of its annual operational  
+waste. We partnered with local company Prairie  
+Composting to fund North Dakota’s first food  
+waste composting facility and acquire year-
+round composting equipment that can withstand  
+Fargo’s harsh winters. This diverted over 30% of  
+our campus waste from landfills and established  
+critical year-round composting infrastructure in  
+North Dakota, creating new opportunities for  
+local businesses and residents to cut landfill waste  
+and curb methane emissions. Since rollout, the  
+Fargo composting facility has expanded business  
+to compost food waste for the local community,  
+Starbucks, and Costco. 
+Letting bees lead our 
+landscaping strategy 
+ 
+At Microsoft’s Washington state headquarters,  
+an urban beekeeping program supports  
+approximately 250,000 honeybees— 
+and is helping shape how we design  
+campus landscapes. 
+Environmental DNA (eDNA) analysis shows our  
+honeybees pollinate more than 150 floral species  
+across 47 square miles, from plums and cherries  
+to peaches and apricots. The harvested honey  
+is shared with staff and used in campus dining.  
+Beyond the Puget Sound, we also maintain bee  
+colonies at campuses elsewhere in the United  
+States as well as in Denmark and Germany. 
+Guided by eDNA insights from our beekeeping  
+program, our headquarters landscaping strategy  
+continues to center on native and pollinator-
+friendly plants. In 2025, the landscaping team  
+partnered with a local compost service provider  
+to transform an estimated 3,000 cubic yards  
+of leaf debris into compost and convert trees  
+naturally downed in a storm into over 600 cubic  
+yards of wood chips, which we reapply to native  
+plant zones. 
+38 
+2026 Environmental Sustainability ReportOverview AppendixInfrastructure Products
+Campuses continued 
+
+
+[PAGE 39]
+ 
+ 
+Investing where we live   
+and work: Washington state 
+Washington state is Microsoft’s home.  
+Since 1979, we have built a presence  
+that extends from our headquarters  
+in Redmond, with Mount Rainier on  
+the  horizon, to datacenter communities  
+in Central Washington’s agricultural  
+basin  and forest restoration efforts  
+on  the Olympic Peninsula. 
+We are committed to being a  
+good neighbor and investing in the  
+communities, natural resources, and  
+ecosystems  that  define  the  place  
+we  call home. 
+Supporting communities 
+across Washington 
+ 
+ 
+Our sustainability work in Washington is part of a  
+broader commitment to the systems that help the  
+state thrive—from housing and infrastructure to  
+education, energy, and community institutions. 
+Since 2019, Microsoft has invested $750 million in  
+affordable housing, contributing to the creation  
+or p  reservation of more than 16,500 units. We have  
+also contributed over $400 million to regional  
+infrastructure and growth initiatives, including  
+the East Link light rail extension across Lake  
+Washington in 2026. 
+This work also extends through our employees  
+and nonprofit partners. In 2025, Microsoft and  
+our employees contributed more than $88 million  
+to Washington-based nonprofits, volunteered  
+over 400,000 hours, and contributed more than  
+$50 million in technology to nonprofits across  
+the state. 
+20 years of growing with Quincy 
+Microsoft broke ground in Quincy 20 years ago,  
+designing and building the first company-owned  
+datacenter, something local leaders had never  
+seen but were proud to be part of. As a farming  
+community in the heart of Washington state’s  
+agricultural basin, Quincy was never meant  
+to be a tech town.  
+Now, on the edge of Quincy, two Microsoft  
+campuses hold more than 20 buildings and  
+2 million square feet of computing power  
+that millions rely on every day.   
+   
+2026 Environmental Sustainability ReportOverview AppendixInfrastructure Products
+39 
+$88M+ 
+contributed by Microsoft and its employees  
+to Washington-based nonprofits in 2025. 
+
+[PAGE 40]
+Grant County’s population has grown by almost  
+33% over the last two decades, and Quincy’s  
+poverty rate was cut in half between 2012 and 2023,  
+falling from 29.4% to 13.1%. Property tax rates f  or  
+residents have dropped, even as a stronger tax  
+base helped fund community necessities like a  
+new hospital, new city hall, new library, new high  
+school, and new public safety stations that anchor  
+the community.  
+Microsoft’s datacenter operations in Central  
+Washington employ about 400 people today,  
+and that number is expected to climb to nearly  
+700 full-time employees and contractors by the  
+end of 2026. Another 200 security contractors  
+work  alongside them. The average datacenter  
+job pays roughly $93,000 a year, compared  
+to the average $53,000 across the region, and  
+onsite contractor roles pay about 1.7 times  
+the  regional average.  
+ 
+ 
+We have committed over  
+$100 million to investees and  
+partners across Washington. 
+To find talent for those careers, Quincy introduced  
+the state’s first high school datacenter technician  
+program, with Microsoft’s support, alongside  
+expanded computer science and cybersecurity  
+courses. Partnerships with Big Bend Community  
+College and the NCW Tech Alliance and the NCW  
+Tech Alliance have enabled local classrooms to  
+keep young people close to home. 
+As Quincy’s economic opportunities and  
+resources continue to grow, so does what’s  
+possible for neighboring towns, as new campuses  
+are planned for nearby East Wenatchee and  
+Malaga. What started as a single datacenter is  
+still evolving—creating opportunities, supporting  
+jobs, and helping support the next chapter of  
+Central Washington.  
+Catalyzing innovation 
+in the Pacific Northwest 
+  
+ 
+Microsoft and our partners are helping test, scale,  
+and commercialize sustainability solutions in  
+Washington with potential relevance far beyond  
+the state. Through CIF and our Sustainable Markets  
+programs, Microsoft has committed more than  
+$100 million to investees and partners across  
+Washington working to advance SAF, cleaner  
+energy, climate-smart forestry, carbon removal,  
+and  other sustainability solutions.  
+In Moses Lake, CIF portfolio company Twelve is  
+advancing power-to-liquid SAF production, with  
+Microsoft among the customers connected to  
+the project. In partnership with Pacific  Northwest  
+National Laboratory, Microsoft is applying AI and  
+cloud computing to accelerate materials discovery  
+for next-generation batteries—a critical technology  
+for electrification and cleaner energy systems.  
+Using  Azure Quantum Elements, Microsoft helped  
+screen more than 32 million candidate materials  
+and narrow them to 18 promising candidates in  
+80 hours. And on the Olympic Peninsula, our work  
+with  EFM shows another kind of innovation: using  
+improved forest management with the goal of  
+supporting high-quality, nature-based carbon  
+removal while also helping restore natural forest  
+conditions, protect sensitive watersheds, and  
+support biodiversity. Through this investment, we  
+anticipate securing access to up to 3 million metric  
+tons of carbon removal credits through 2035. 
+ 
+Planning for local resources 
+as we grow 
+  
+Growth in Central Washington also requires close  
+partnership to help manage water and energy  
+systems that support communities, agriculture,  
+and datacenter operations alike. Microsoft joined  
+with the City of Quincy to build the Quincy Water  
+Reuse Utility, which treats cooling water from a  
+Microsoft datacenter and recirculates it for reuse,  
+helping reduce reliance on potable water in an  
+arid region. Microsoft has also entered into a long-
+term agreement with Powerex to deliver carbon-
+free electricity to a new Microsoft datacenter in  
+Washington state, matching hourly demand with  
+direct deliveries of carbon-free hydro, solar, and  
+wind power on a 24x7 basis. These partnerships  
+are just a few examples of how Microsoft is working  
+with local utilities and regional energy providers  
+to help support growth and reduce pressure on  
+local resources. 
+What Washington teaches us 
+Our investment in Washington state shows  
+us  what’s possible with long-term, place-based  
+investment. We are grateful to call this state home,  
+and we will continue partnering, building, and  
+learning alongside communities across Washington  
+to support a more resilient future for people and  
+the natural systems we all depend on. 
+ 
+40 
+2026 Environmental Sustainability ReportOverview AppendixInfrastructure Products
+Investing where we live and work: Washington state continued 
+
+[PAGE 41]
+Looking ahead 
+Reducing the resource  
+intensity of our  
+infrastructure 
+The work ahead will require continued progress  
+across the full infrastructure system that supports  
+Microsoft’s products and services—from  
+datacenters and campuses to supply chains,  
+energy systems, and the communities where  
+we operate. As demand for cloud and AI services  
+grows, so does the need to reduce the resource  
+intensity of that infrastructure while expanding  
+the conditions that make more sustainable  
+growth possible. 
+41 
+2026 Environmental Sustainability ReportOverview AppendixInfrastructure Products
+ 
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+For Microsoft, that means focusing on 
+several priorities: 
+■ Improving how we design, build, and 
+operate datacenters and campuses.
+■ Working with suppliers and partners 
+to reduce impacts across the value chain.
+■ Expanding access to CFE and 
+strengthening grid infrastructure.
+■ Supporting the technologies, markets, 
+and local conditions needed to scale 
+this work responsibly over time.
+No single intervention will be enough. But by 
+continuing to invest, collaborate, and adapt across 
+these interconnected systems—and by being 
+transparent about both progress and constraints—
+we can help build a more resilient, lower-emission 
+infrastructure foundation for the AI era. 
+
+
+[PAGE 42]
+ 
+ 
+422026 Environmental Sustainability Report Overview Appendix Infrastructure Products 
+Products 
+In this section 
+Introduction 43
+Software and platforms 44
+Devices 48
+XBOX 51
+Logistics and supply chain 53
+Applying AI for sustainability 56
+Looking ahead 60
+
+[PAGE 43]
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+432026 Environmental Sustainability Report Overview Appendix Infrastructure Products 
+Advancing  
+sustainability  
+through our  
+products 
+Microsoft products shape how people and 
+organizations work, create, and play, which means 
+what we build matters as much as how we build it. 
+We’re integrating sustainability into the experiences 
+people rely on every day, from Microsoft 365 to 
+Surface and XBOX. 
+We’re also applying our own technology beyond 
+our own operations with the goal of: strengthening 
+water resilience, supporting ecosystem 
+conservation, and making environmental and 
+climate data more accessible to the researchers, 
+governments, and organizations working to 
+turn their insights into action. 
+What we build matters 
+as much as how we build it. 
+
+
+[PAGE 44]
+Software and platforms 
+We’re building products that help make sustainability more accessible and  
+actionable for the people and organizations using them. Across cloud services,  
+developer tools, and operating systems, we’re building capabilities that  
+empower customers to better understand and manage emissions, developers  
+to create more efficient software, and users to reduce energy demand through  
+everyday product features. 
+ 
+Improving energy efficiency 
+through Windows 
+ 
+ 
+With Windows powering more than 1 billion  
+active devices globally, even small improvements  
+in  energy efficiency add up. Windows 11 builds  
+on a  foundation of energy-efficient design, with  
+features that help reduce power consumption  
+during everyday use, extend battery life,  
+and optimize system performance without  
+compromising user experience. These capabilities  
+support lower energy demand over the lifecycle  
+of  devices, complementing broader efforts to  
+reduce Scope 3 e  missions associated with use  
+of the products we sell. 
+Energy Saver, our opt-in Windows feature,  
+extends battery life and reduces device energy  
+consumption by approximately 20% per active  
+session. In FY25, we introduced Energy Saver as  
+a configurable policy that IT teams can enforce  
+in Microsoft Intune, Group Policy, or any Mobile  
+Device Management tool, allowing them to deploy  
+and manage it at scale across their device fleets.  
+Previously a user-controlled setting, this expanded  
+the feature from an individual user choice to an  
+enterprise-wide capability. 
+Additionally, when Energy Saver is on, supported  
+AI features automatically run in an energy-efficient  
+mode. Together, these initiatives empower customers  
+to lower their carbon footprint while maintaining  
+a productive experience for their employees.  
+2026 Environmental Sustainability ReportOverview AppendixInfrastructure Products
+44 
+20% 
+reduction in device   
+energy consumption with 
+our opt-in Energy Saver  
+Windows feature. 
+
+[PAGE 45]
+Designing Copilot for efficient 
+everyday use 
+ 
+ 
+Microsoft embeds Copilot directly into the tools  
+p
+eople already use daily—like Outlook, Excel,  
+P
+owerPoint, and Teams. That integration makes  
+efficiency especially important: the systems that  
+support Copilot are not isolated from the rest of  
+our product portfolio; they are part of a shared AI  
+and cloud foundation that supports experiences  
+across Microsoft products. As we work to improve  
+the efficiency of that foundation—from datacenter  
+operations and hardware to model design—those  
+improvements can help support more efficient  
+Copilot experiences at scale. Recent Microsoft  
+r
+esearch found that optimized, large-scale AI  
+i
+nference can consume less than one watt-hour  
+of energy per query, and that improvements across  
+model design, serving systems, and hardware  
+could reduce energy use by 8 to 20 times. 
+ 
+ 
+The opportunity is also visible in how Copilot  
+changes everyday work. In one Microsoft  
+e
+xperiment, five professionals were asked to  
+s
+ummarize a 3,000-word technical report into  
+200 words, which took a median of 41 minutes  
+and consumed an estimated 13.7 watt-hours of  
+laptop energy. Using a single prompt, Copilot  
+completed the same task in under a minute using  
+0.29 watt-hours of datacenter energy—roughly  
+55  times faster and 47 times more energy efficient.  
+Independent reviewers also rated the Copilot-
+generated summary higher for clarity, accuracy,  
+completeness, and overall quality. Results will vary  
+by task, but the example shows why efficiency  
+needs to be measured not only in the infrastructure  
+behind AI, but also in the work AI helps  
+people complete. 
+ 
+Helping organizations act 
+on emissions data in Azure 
+  
+Supporting customers on their decarbonization  
+journeys begins with better data. That means  
+giving  organizations clearer visibility into  
+the carbon impact of their cloud workloads,  
+migration choices, operations, and supply chains. 
+In 2025, we announced the general availability  
+o
+f carbon optimization insights within Azure.  
+This gives customers a detailed breakdown of  
+the carbon emissions associated with their cloud  
+workloads, helping them identify and analyze  
+trends and take action to reduce impact.28 
+We also launched Sustainability Benefits in Azure  
+Mi
+grate, which helps customers estimate the  
+p
+otential emissions savings of moving workloads  
+from on-premises infrastructure to Azure—where  
+greater energy efficiency and carbon-free electricity  
+(CFE)3 can significantly reduce emissions. This helps  
+give IT, finance, and sustainability teams a shared  
+view of both commercial and environmental value  
+when planning their cloud strategy. 
+For many organizations, managing sustainability  
+d
+ata still starts with tools like Microsoft Excel.  
+Microsoft Sustainability Manager offers a more  
+i
+ntegrated path—helping customers unify  
+environmental, social, and governance data  
+for  tracking, reporting, and action. 
+45 
+2026 Environmental Sustainability ReportOverview AppendixInfrastructure Products
+Software and platforms continued 
+ 
+
+[PAGE 46]
+Built on Microsoft Dataverse and Microsoft Power 
+Platform, Sustainability Manager delivers data 
+integration, emissions tracking, and alignment 
+with global standards. This helps our customers 
+to easily calculate their carbon footprint across 
+product lifecycle stages, allocate emissions from 
+facilities and suppliers to specific products and 
+organizational units, and combine social and 
+governance data with environmental metrics 
+for holistic assessments. 
+Oatly, a global leader in plant-based dairy 
+alternatives, is committed to significantly reducing 
+its environmental impact but recognized that 
+its fragmented, manual approach to managing 
+sustainability data was no longer sufficient. 
+To address these challenges, Oatly partnered 
+with Microsoft and PwC Sweden to centralize and 
+streamline data, to improve transparency and 
+traceability across its operations using Microsoft 
+Sustainability Manager.29 
+Reliable, integrated data turns 
+sustainability from a compliance 
+exercise into real time business 
+decisions and measurable impact. 
+Peter Tan 
+Vice President Business Technology, Oatly 
+Developers play an 
+important role in reducing 
+the environmental footprint 
+of software by making 
+design and engineering 
+choices that can improve 
+resource efficiency .
+These tools are also helping extend better data 
+and decision-making beyond customer use 
+cases, including into supply chain reporting 
+and supplier engagement.
+We are using bespoke AI-enabled tools in 
+Microsoft Sustainability Manager to help review 
+carbon data submitted under our Supplier Code 
+of Conduct reporting standards and identify ways 
+to improve alignment. We also work with Green 
+Project Technologies who built custom models in 
+Microsoft Azure AI Foundry that automate carbon 
+footprint calculations and help guide suppliers 
+through decarbonization strategies.
+Equipping developers to build 
+lower-impact code through GitHub 
+ 
+Software development increasingly shapes 
+environmental impact—not just through the 
+electricity required to run applications, but through 
+the infrastructure those applications demand. 
+Choices about code efficiency, model size, data 
+volume, and workload design influence how much 
+compute is needed, how long systems run, how 
+much data is stored and moved, and when new 
+hardware capacity is required. Developers therefore 
+have an important role to play in reducing 
+software’s environmental footprint. 
+Through GitHub—Microsoft’s open-source  
+code-hosting platform—we’re helping the world’s 
+largest developer community access tools, 
+examples, and shared practices that can support 
+more efficient code and accelerate climate and 
+sustainability solutions. 
+Launched in 2025, the GitHub Climate Action Plan 
+for Developers highlights examples from more  
+than 60,000 open-source green software and 
+climate-focused projects. This empowers users 
+to reduce the climate impact of their own 
+projects and includes a diverse range of tools 
+that aim to help developers track the emissions 
+of computing projects, access real-time electricity 
+data and forecasts, contribute to open-source 
+climate projects, and model energy demand 
+in buildings and cities. 
+46
+2026 Environmental Sustainability ReportOverview AppendixInfrastructure Products
+Software and platforms continued
+We’re also exploring how emerging agentic 
+AI capabilities can help developers work more 
+efficiently and reduce the emissions intensity of 
+new code. These capabilities can help developers 
+choose the right-sized AI model for each task, 
+while AI agents continually review, test, and improve 
+code so it uses less energy when it runs. This work 
+has already helped deliver efficiencies through 
+Resolve, an open source AI tool that streamlines 
+the development of complex applications by 
+reducing the need to extensively configure tools, 
+libraries, and frameworks. 
+60,000+ 
+open-source green software 
+and climate-focused projects 
+launched on GitHub in 2025. 
+
+[PAGE 47]
+Empowering developers to design more sustainable AI workloads in Azure 
+The Microsoft Azure Well-Architected Framework 
+is a set of best practices and guidelines designed 
+to help developers apply sustainability principles 
+across three phases of AI workload design: 
+■ Model design—prioritize smaller or pretrained 
+models, energy-efficient frameworks, fine-tuned 
+training instead of full training, and training in 
+low-carbon regions. 
+■ Data design—reduce the volume of data 
+collected, improve data quality, use optimized 
+ingestion methods, store and process data 
+close to where it’s needed, and choose 
+regions and storage strategies that minimize 
+environmental impact. 
+■ Operations—deploy and scale workloads 
+in low-carbon regions, retrain models only 
+when necessary, monitor for performance 
+and sustainability, and use autoscaling 
+and load balancing to match resources 
+to demand efficiently. 
+Together, these strategies strive to help Microsoft 
+and our customers lower energy use, reduce 
+emissions, and support the effectiveness of 
+Azure systems that are both effective and 
+environmentally responsible.
+47
+2026 Environmental Sustainability ReportOverview AppendixInfrastructure Products
+Software and platforms continued
+
+[PAGE 48]
+Devices 
+A device’s sustainability starts long before it reaches a customer—in the 
+materials we choose, how it is manufactured, and how it moves through the 
+supply chain. It continues in the customer experience: how long the product 
+lasts, how easily it can be repaired, and how responsibly it is packaged. 
+We’re building sustainability into every stage of the device journey,  
+from design and sourcing to use and serviceability. 
+Reducing plastic packaging 
+Designing for circularity is central to our 
+packaging strategy. Our targets have been simple 
+yet ambitious: eliminate single-use plastics and 
+design 100% recyclable packaging. 
+At the end of 2025, we eliminated nearly all single 
+use plastic
+-
+ from Microsoft’s primary product 
+packaging,4 reducing single-use plastics to 0.07% 
+across our global portfolio. This accomplishment 
+reflects more than five years of innovation 
+to reduce plastic packaging at scale without 
+compromising quality, accessibility, or customer 
+experience. It accounts for 1,000 unique packaging 
+components spanning small break-the-seal labels 
+all the way to the foam cushioning used to protect 
+Surface Studio 2+, an all-in-one desktop PC that 
+weighs over 21 pounds. 
+Since 2020, shifting to fiber-based materials has 
+prevented more than 5,000 metric tons of plastic 
+from being manufactured. That’s equivalent to 
+the weight of a half-billion plastic water bottles.30 
+At the end of 2025, we also achieved 99.0% 
+packaging recyclability by implementing a paper-
+first approach that replaces plastics with renewable 
+fiber-based materials. 
+We’re proud of the strides we’ve made in our 
+device packaging sustainability targets, but we are 
+staying accountable to the work required to achieve 
+them completely. Rather than rounding down 
+to 0% single-use plastics, we remain committed 
+to reporting our progress transparently and 
+partnering with others to address the industry 
+challenges needed to close the gap. 
+48
+2026 Environmental Sustainability ReportOverview AppendixInfrastructure Products
+We’re building sustainability 
+into both the invisible 
+decisions and the visible 
+experience of our devices.
+
+[PAGE 49]
+FY20 FY21 FY22 FY23 FY24
+8%
+7%
+6%
+4%
+2%
+3%
+5%
+1%
+2025 
+TARGET0%
+7.3%
+5.4%
+4.2%
+6.2%
+4.6%
+Single-use plastics rate
+CY25 FY25
+4.7%
+0.07%
+Reducing single-use plastics 
+In FY25, we achieved a rate of 4.2% single-use plastics across Microsoft primary product packaging.  
+By the end of calendar year 2025, we had eliminated nearly all single-use plastics from Microsoft 
+primary product packaging,4 achieving a rate of 0.07%. 
+Find out more in our Data Fact Sheet 
+Increasing recycled and lower-carbon 
+materials in devices 
+In 2025, we evolved our device circularity strategy 
+to prioritize recycled content. We’ve continued 
+to reduce the carbon intensity of key Surface 
+components without compromising performance, 
+including by prioritizing the use of lower-carbon 
+materials such as post-consumer recycled plastics. 
+By 2030, we aim for 25% of our devices’ product 
+content to come from recycled materials.31 
+We are also working to reduce our reliance on 
+virgin materials by working with suppliers to 
+integrate recycled inputs and verifying claims 
+through UL 2809 certification. We have secured 
+100% recycled aluminum alloys in key enclosures; 
+recycled copper and gold in printed circuit 
+boards; recycled cobalt in batteries; recycled tin 
+in solder paste; rare earth magnets from reclaimed 
+electronics scrap; and post-consumer recycled 
+plastics in key components and accessories.32 
+Building on work from previous years, we rigorously 
+evaluate and validate recycled materials before 
+scaling their use, helping ensure product quality, 
+compliance, traceability, and long-term reliability. 
+25% 
+of our devices’ product content 
+is expected to come from 
+recycled materials by 2030. 
+Designing longer-lasting, 
+more repairable devices 
+ 
+Extending product life reduces the need for 
+replacement and the emissions associated with 
+manufacturing new devices. In FY25, collaboration 
+across design, engineering and sourcing helped us 
+continue to improve durability across our Surface 
+devices. We’re also using modular architecture that 
+make repairs easier, with spare parts available to 
+customers and independent repair providers.
+49
+2026 Environmental Sustainability ReportOverview AppendixInfrastructure Products
+Devices continued
+
+[PAGE 50]
+63% 
+recycled content used in the 
+build of Windows 365 Link. 
+Device sustainability also means designing 
+hardware for the way people work now, including 
+cloud-based experiences that do not require every 
+capability to live on the device itself. Microsoft is 
+advancing this approach through new, purpose 
+built hardware for cloud-based work. 
+-
+Windows 365 
+Link is a compact device that helps organizations 
+deliver the Windows experience without relying on 
+a full local desktop device. The product connects 
+people directly to their Cloud PC so they can 
+securely access apps and files without storing 
+them locally. It is designed to make work easier 
+to manage, faster to set up, and more secure—
+especially in shared or flexible work environments. 
+Windows 365 Link is also built with sustainability 
+in mind: it’s ENERGY STAR-certified, contains 
+at least 63% recycled content,33 uses 100%  
+paper-based packaging, and is designed to 
+be long-lasting and repairable. 
+AI-driven tools have reduced 
+the time needed for lifecycle 
+assessment modeling by up  
+to 80% per device. 
+Partnering with suppliers to reduce 
+manufacturing energy and waste 
+We are working in partnership with our suppliers 
+to reduce energy demand in device manufacturing, 
+lowering the embodied carbon of our devices. 
+In 2025, we worked with 20 manufacturing 
+suppliers to pilot a measurable energy efficiency 
+program and identified 60 energy-saving 
+opportunities across supplier manufacturing 
+processes, utilities, and buildings. These efforts 
+resulted in savings of 5 million kWh across our 
+devices production footprint. 
+To strengthen waste reduction in our devices 
+supply chain, we also introduced the Supplier  
+Zero Waste program. This effort encourages  
+our devices manufacturing suppliers to achieve 
+≥90% waste diversion from landfill and incineration, 
+aligned with zero-waste-to-landfill principles  
+and globally recognized standards such as UL 2799, 
+a third-party validated zero waste standard. In FY25, 
+43 of our manufacturing suppliers achieved ≥90%  
+waste diversion; 42 achieved UL 2799 Platinum  
+certification and 1 achieved UL 2799 Gold  
+certification. 
+ 
+Applying AI to better understand 
+the impact of our products 
+Lifecycle assessment (LCA) helps identify where 
+a product’s environmental impacts occur in 
+the supply chain—but it can be a complex, time 
+intensive, or imprecise process. We are using AI 
+to accelerate sustainability insights for Surface 
+devices and XBOX consoles by automating parts 
+of the LCA process and improving the precision 
+of carbon modeling. 
+-
+Machine learning is helping us create digital twins: 
+dynamic, data-driven virtual models of a product’s 
+lifecycle. Unlike traditional, static LCA models, 
+digital twins integrate materials, supplier, process, 
+energy, and emissions data. These models allow 
+us to simulate the environmental impacts from 
+material extraction through to manufacturing, 
+use, and end of life, helping identify inefficiencies 
+and test new design and sourcing scenarios. 
+AI-driven tools such as Makersite have also reduced 
+the time needed for LCA modeling by up to 80% 
+per device. This helped us significantly expand 
+coverage of our LCA analyses, which uncovered 
+previously hidden hotspots like semiconductor 
+manufacturing. These insights now guide supplier 
+engagement according to carbon impact and 
+inform strategies such as CFE adoption, ecodesign 
+integration in product development, and improved 
+sustainability reporting across Microsoft’s device 
+supply chains.
+50
+2026 Environmental Sustainability ReportOverview AppendixInfrastructure Products
+Devices continued
+
+[PAGE 51]
+XBOX 
+ 
+ 
+In 2025, we advanced gaming 
+sustainability by reducing the energy 
+footprint of XBOX devices across 
+their lifecycle and using the games 
+themselves to engage players in 
+environmental action. 
+Reducing energy use without 
+compromising gameplay 
+The XBOX Sustainability Hub is our central platform 
+for sharing progress, tools, and resources with 
+players, developers, and partners in the spirit of 
+building a sustainable gaming future. Refreshed in 
+2025, the hub brings together updates on themes 
+including energy-efficient design, recyclable 
+packaging, and repairability. 
+It also gives developers access to the XBOX 
+Sustainability Toolkit, launched in 2024 to 
+help developers reduce energy use in games 
+without compromising the player experience. 
+Studios continue to embrace the toolkit: titles 
+including The Outer Worlds 2, Indiana Jones and 
+the Great Circle™, Two Point Museum, Minecraft, 
+and Diablo IV implemented features such as 
+Dynamic Power States, which adjusts power 
+use in real time based on gameplay activity, 
+and Constrained+ Mode, which lowers energy 
+consumption when a game is not actively being 
+played. Together, these features can cut energy 
+use by as much as 50% without compromising 
+player experience. 
+Energy savings also depend on the choices we 
+build into the console experience. Energy Saver 
+mode gives players a lower-power option—it uses 
+20 times less power than the previous standby 
+option—without sacrificing convenience features 
+such as background updates for your games, 
+apps, and the OS. Adoption on XBOX consoles has 
+remained above 70% since we launched the feature 
+in 2022 and made it the default power mode in 
+2023. This shows how thoughtful design and player 
+adoption can help reduce energy demand at scale. 
+Call of Duty®: Black Ops 6 won Best Green Tech 
+Award at the 2025 Playing for the Planet Awards 
+in recognition of leadership in sustainable gaming 
+technology. The title was among the first to adopt 
+Dynamic Power States along with energy-saving 
+features in menus, showing that blockbuster 
+gaming and sustainability can go hand in hand. 
+These innovations were later extended to Call 
+of Duty®: Warzone™.
+ 20x
+ 
+less power consumed by the 
+console in Shutdown (Energy Saver) 
+mode compared to Sleep mode 
+when off.
+51
+2026 Environmental Sustainability ReportOverview AppendixInfrastructure Products
+
+[PAGE 52]
+Engaging players on 
+sustainability through gaming 
+Gaming can make sustainability more visible 
+and accessible by meeting players in worlds 
+they already care about. Through XBOX, 
+Minecraft Education, and global partnerships, 
+we’re engaging players around the world 
+with interactive experiences that combine 
+entertainment with learning about 
+environmental action. 
+Created in 2025 for Minecraft Education in 
+partnership with PBS Nature, Planet Pigeon 
+brings urban ecology to life from a pigeon’s-
+eye view. Through playful, immersive, science 
+based challenges, players explore how city 
+wildlife adapts to human habitats and engage 
+with issues such as food waste and coexistence 
+with nature. 
+-
+ 
+At Gamescom, XBOX partnered with Playing 
+for the Planet, SEGA, and Bandai Namco 
+Entertainment Europe on the Epix Quest. 
+This interactive experience engaged players 
+in fun, eco-themed challenges designed to 
+raise awareness about environmental action 
+within gaming communities. 
+Finally, we continue to spotlight games with 
+the ability to inspire change through play. 
+A curated collection of titles launched in 2025 
+is helping players discover games that embrace 
+energy efficiency or sustainability themes 
+while encouraging developers to continue 
+innovation on sustainability.
+52
+2026 Environmental Sustainability ReportOverview AppendixInfrastructure Products
+XBOX continued
+
+[PAGE 53]
+Logistics and supply chain 
+Delivering Microsoft products and services depends on global supply chains 
+and logistics networks that can be complex, carbon-intensive, and deeply 
+interconnected. Reducing emissions across these systems requires action at 
+multiple levels: improving the efficiency of our own logistics network, helping 
+suppliers advance their decarbonization pathways, and working with partners 
+to strengthen the infrastructure, energy systems, and markets needed to 
+reduce value chain emissions at scale. 
+Reducing emissions 
+in our logistics network 
+ 
+Reducing emissions from Microsoft’s logistics 
+network means finding lower-carbon alternatives 
+for how we move products and materials—while 
+maintaining cost, performance, and reliability. 
+In FY25, we increased the use of alternative fuels34 
+across our transportation operations, helping to 
+reduce emissions by more than 70,000 metric 
+tons of carbon dioxide equivalents (mtCO2e). 
+That reduction is equivalent to avoiding the 
+emissions from nearly 178 million miles driven by 
+an average gasoline-powered passenger vehicle.35 
+We’ve also made progress in decarbonizing 
+devices supply chain logistics. Using hydrotreated 
+vegetable oil (HVO) fuel36 for a portion of 
+road freight helped save 33 mtCO2e. Broader  
+optimization efforts—including the adoption 
+of lightweight recyclable pallets, changes to 
+packaging configuration, and the continued use 
+of electric vehicles (EVs)37 —delivered a further 
+2,200 mtCO2e in savings. 
+Better data is also improving how we identify 
+emissions reduction opportunities. 
+70,000 mtCO2e 
+reduced through the increased use of 
+alternative fuels across our transportation 
+operations in FY25. 
+In FY25, we continued to expand the 
+implementation of EcoTransIT, a software solution 
+that calculates emissions at each stage of a 
+shipment’s journey. Using an ISO 14083 and GLEC-
+certified framework, it improves the accuracy of 
+Microsoft’s emissions measurements and gives 
+us a clearer view of where reductions can be 
+made across the network. 
+We are applying AI-enabled tools to logistics 
+planning. CargoPilot, an internal AI-powered 
+logistics agent for Microsoft’s cloud supply chain, 
+brings together complex logistics data and dynamic 
+demand forecasting to simulate cost, carbon, and 
+delivery speed trade-offs. It helps logistics teams 
+identify opportunities to shift to lower-emission 
+transport types and deploy alternative energy 
+solutions—including sustainable aviation fuel (SAF), 
+EV trucks, and HVO—without affecting service.
+53
+2026 Environmental Sustainability ReportOverview AppendixInfrastructure Products
+
+[PAGE 54]
+Helping suppliers decarbonize 
+Much of Microsoft’s value chain emissions 
+are shaped by decisions that suppliers make 
+about energy, materials, and manufacturing. 
+Many suppliers face real barriers to 
+decarbonization—from accessing CFE  
+and sustainable fuels to measuring emissions 
+consistently and identifying where to focus.  
+We are working to lower those barriers  
+through clearer standards, better tools,  
+stronger partnerships, and access to 
+decarbonization solutions. 
+Over the past year, we strengthened how 
+sustainability expectations are embedded in 
+procurement tools, processes, and supplier 
+relationships. We updated our Supplier Code of 
+Conduct to request that suppliers purchase SAF for 
+Microsoft-related travel where possible by 2030. 
+FY25 Scope 3 emissions by source 
+Scope 3 emissions remain the largest share of Microsoft’s total emission footprint. 
+Advancing supply chain decarbonization and strengthening partnerships with 
+suppliers will remain critical to managing impact as we scale. 
+Scope 3 categories 
+A Purchased Goods and Services 25.28%
+B Capital Goods 44.57%
+C Fuel- and Energy-Related Activities (Market-Based) 5.30%
+D Upstream Transportation and Distribution 3.66%
+E Business Travel 1.00%
+F Employee Commuting 1.40%
+G Use of Sold Products 4.07%
+H Waste Generated in Operations 0.07%
+Downstream Transportation and Distribution 0.42%
+End-of-Life Treatment of Sold Products 0.01%
+Downstream Leased Assets 0.03%
+Scope 2 and 3 emissions included in this chart are market-based. 
+Find out more in our Data Fact Sheet 
+B
+CD
+A
+SCOPE 2
+SCOPE 1
+13.34%
+0.84%
+Scope 3
+85.82%
+F
+G
+H
+E
+54
+2026 Environmental Sustainability ReportOverview AppendixInfrastructure Products
+Logistics and supply chain continued
+We also streamlined access to CFE for companies 
+with smaller energy loads and revised our 
+procurement policy to encourage buyers to 
+engage with suppliers whose programs meet 
+our sustainability criteria. 
+To help suppliers act on those expectations, we 
+expanded access to practical tools and solutions 
+that support emissions reduction. Our partnership 
+with Zettawatts streamlined access to CFE and 
+offered a fast-track procurement pathway for 
+Microsoft suppliers with smaller electricity loads, 
+aligned with our Supplier Code of Conduct 
+guidance. We also continued to expand access 
+to renewable energy procurement through our 
+Supplier REach program, which helps suppliers 
+evaluate energy purchasing opportunities 
+based on factors including real-time pricing and 
+availability. Through our partnership with software 
+provider Chooose, we are using Microsoft’s scale 
+to help lower costs and improve access to SAF 
+for our suppliers. 
+Alongside access to CFE and fuels, suppliers 
+need better ways to understand and manage 
+their emissions. We developed a streamlined 
+approach to help service-based suppliers 
+calculate greenhouse gas emissions based on 
+the actual volume and type of services delivered. 
+This gives supplier teams a clearer view of where 
+emissions come from and where decarbonization 
+opportunities may have the greatest impact.
+
+[PAGE 55]
+ Building the conditions for 
+supply chain decarbonization 
+Reducing supply chain emissions requires 
+changes to systems that no single company can 
+drive on its own. SAF, for example, depends on 
+stronger demand signals and greater available 
+supply. Suppliers also need better access to CFE, 
+clearer procurement pathways, and more reliable 
+grid infrastructure. Microsoft is working across 
+logistics, energy, policy, and industry associations 
+to help strengthen these broader conditions 
+for decarbonization. 
+100,000 mtCO2e 
+expected reduction in lifecycle greenhouse 
+gas emissions through a sustainable 
+aviation fuel transaction with United 
+Airlines and DSV. 
+As sustainable fuels become more important in our 
+work toward our 2030 carbon negative commitment, 
+we are using investment, procurement, and supply 
+chain partnerships to help accelerate availability 
+and adoption of SAF. One example is a multi-year 
+partnership with AIT Worldwide Logistics and 
+Cargolux that is expected to mitigate 66,000 mtCO₂e 
+between and Cargolux that is expected to mitigate 
+66,000 mtCO₂e between 2025 and 2027 while 
+also helping scale the market for regionally 
+produced SAF. 
+We also worked with United Airlines and DSV, along 
+with Phillips 66 as the SAF provider, on a cross-
+industry transaction expected to reduce lifecycle 
+greenhouse gas emissions by approximately 
+100,000 metric tons compared with conventional 
+jet fuel.38 Partnerships like these send demand 
+signals to the market, support policy momentum, 
+and show how procurement can help scale SAF 
+adoption in the North American aviation industry. 
+Addressing manufacturing 
+emissions across our 
+supply chain 
+The same principle applies beyond transport 
+fuels. A significant share of our Scope 3 
+emissions is driven by semiconductors 
+and hardware manufacturing, much of it 
+concentrated among a relatively small number 
+of suppliers in Asia. Reducing those emissions 
+depends not only on supplier action, but also 
+on better access to CFE in the markets where 
+those suppliers operate. 
+To help address these challenges, Microsoft 
+has significantly expanded its work across 
+Asia-Pacific to support cleaner, more reliable, 
+and more transparent energy systems for 
+high-impact supply chains. We collaborate with 
+governments, utilities, suppliers, and industry 
+associations—including the Asia Clean Energy 
+Coalition and the SEMI Energy Collaborative—
+to advance clean energy and grid solutions. 
+In South Korea, where several of our largest 
+semiconductor suppliers are based, our 
+engagement has focused on improving CFE 
+access and accelerating grid and transmission 
+development, including detailed industry input 
+on key energy policies such as the 2025 Special 
+Act for Key National Grids. Together, these 
+efforts support Korea’s evolving energy policy 
+framework and the long-term decarbonization 
+of its industrial base. 
+In Taiwan and Japan, we participated in policy 
+dialogues on electricity market evolution, CFE 
+procurement, and industrial decarbonization, 
+including Japan’s expanded renewable energy 
+targets. We continue to work with suppliers, 
+industry peers, and local stakeholders in both 
+markets to support clearer corporate clean 
+energy pathways, greater system transparency, 
+and shared decarbonization roadmaps.
+55
+2026 Environmental Sustainability ReportOverview AppendixInfrastructure Products
+Logistics and supply chain continued
+
+[PAGE 56]
+Applying AI for sustainability 
+As AI becomes embedded in how people and organizations work, it 
+also creates new ways to analyze complex systems, surface insights from 
+large datasets, and support faster decisions on environmental challenges. 
+At Microsoft, we are applying these capabilities beyond our own operations—
+using AI to help strengthen water resilience, support ecosystem conservation, 
+and improve access to environmental and climate data. 
+  
+This work brings together Microsoft cloud and 
+AI technologies with the expertise of researchers, 
+nonprofits, businesses, and governments. 
+Together, these collaborations help translate 
+AI capabilities into practical tools for real-world 
+sustainability challenges. 
+In FY25, nearly one in five 
+of our water projects used 
+AI to optimize outcomes, 
+from detecting leaks to 
+improving efficiency . 
+Harnessing AI for water resilience 
+We’re harnessing AI technologies to help 
+address some of the most pressing global water 
+challenges by improving how water systems are 
+monitored, managed, and maintained. In FY25, 
+nearly one in five of our water projects used 
+AI to optimize outcomes, from detecting leaks 
+to improving efficiency. 
+We are also using AI to support water management 
+at the basin scale. In partnership with the 
+International Water Management Institute (IWMI), 
+Microsoft developed Water Copilot, an AI assistant 
+designed for the Limpopo River basin in South 
+Africa. By combining Microsoft cloud and AI 
+technologies with IWMI’s digital twin of the basin’s 
+water cycle, the assistant delivers near-real-time 
+insights to local decision makers’ smartphones 
+to enable more efficient irrigation monitoring, 
+water-use tracking, multi-sector water demand 
+analysis, and drought monitoring. 
+  
+  
+56 2026 Environmental Sustainability Report Overview Appendix Infrastructure Products 
+
+[PAGE 57]
+At the urban infrastructure level, we are helping 
+cities identify water losses and improve efficiency. 
+Through AI-powered leak detection, sensor-based 
+efficiency solutions, and modernized irrigation 
+infrastructure, Microsoft is supporting efforts 
+to conserve water at scale. Our partnership 
+with 
+  
+FIDO Tech, for example, has supported 
+357 verified repairs and conserved more than 
+8.5 million cubic meters (m³) of water so far—the 
+equivalent of over 3,400 Olympic-sized pools. 
+  
+We are also applying these tools at the community 
+level. In Phoenix, Arizona, our AI acoustic leak 
+detection is helping detect and repair hidden 
+leaks in municipal water networks, preventing the 
+loss of thousands of cubic meters of water each 
+year. In Querétaro, Mexico, similar work conserved 
+more than 760,000 m³ in FY25 alone. 
+8.5+ million 
+cubic meters of water conserved 
+in our partnership with FIDO Tech—the 
+equivalent of over 3,400 Olympic-sized pools. 
+Supporting ecosystems conservation 
+Microsoft is applying AI to translate complex 
+environmental and ecological data into actionable 
+insights for conservation, forecasting, and 
+response. Through our AI for Good Lab, we 
+work with research institutes and nonprofits to 
+develop tools that enable faster analysis and 
+more targeted interventions. 
+In Yondó, Antioquia, Colombia, we developed 
+an AI-powered mapping system for projects 
+that incentivize forest protection and prevent 
+emissions from deforestation and land-use change. 
+Using Sentinel-2 satellite imagery and high-
+precision AI models with 92% accuracy, the system 
+generates 10-meter-resolution maps that support 
+transparent conservation practices and direct up 
+to 85% of profits to local forest protectors. 
+In marine ecosystems, our AI for Good Lab 
+partnered with the World Wildlife Fund (WWF) 
+to launch GhostNetZero, an AI-powered platform 
+to detect abandoned fishing gear that can trap 
+and kill marine life. By analyzing underwater sonar 
+scans with an approximately 90% detection rate, 
+the platform can identify these “ghost nets” in 
+minutes instead of hours, helping divers recover 
+them more efficiently. 
+Scaling ecosystem monitoring 
+To protect ecosystems we need to see and 
+understand them. This requires data not just 
+where humans live, but in remote places 
+where ecological systems often are thriving 
+most—and are increasingly threatened 
+by global environmental changes. To help 
+close that gap, we are expanding access to 
+biodiversity data through SPARROW, a solar-
+powered edge device developed by Microsoft 
+that uses AI to monitor wildlife autonomously 
+in some of the planet’s most remote areas. 
+  
+Combining acoustic and camera sensors with 
+satellite connectivity, it sends real-time insights 
+directly to the cloud, eliminating the need for 
+manual data retrieval. Because the platform is 
+open source, researchers can build and deploy 
+their own devices, helping scale ecosystem 
+monitoring and protection more broadly. 
+57 2026 Environmental Sustainability Report Overview Appendix Infrastructure Products 
+Applying AI for sustainability continued 
+
+
+[PAGE 58]
+Improving environmental 
+forecasting and response 
+  
+Microsoft is applying AI to help communities better 
+anticipate environmental risks and respond when 
+severe weather events occur. These capabilities 
+can help support more timely decisions before, 
+during, and after climate-related disruptions, from 
+more accurate weather modeling to data-driven 
+response planning. 
+As part of the European Centre for Medium-
+Range Weather Forecast’s AI Weather Quest, 
+Microsoft Research and MSN Weather developed 
+MicroDuet, a weather forecasting model that 
+improved predictive performance for temperature, 
+precipitation, and pressure. Across forecast 
+variables and horizons, the model outperformed 
+government, academic, and industry forecasting 
+systems worldwide. 
+In eastern Pakistan, heavy monsoon rains caused 
+some of the region’s worst flooding in more than 
+four decades, displacing millions and causing 
+widespread damage to infrastructure, farmland, 
+crops, and food supplies. To support the response 
+efforts, Microsoft’s AI for Good Lab used data 
+from the Planetary Computer—our platform for 
+Earth observation data, discussed further in the 
+next section—to generate flood maps that helped 
+identify areas at highest risk of food insecurity, 
+enabling more targeted recovery efforts. 
+Expanding access to environmental 
+and climate data 
+  
+The challenge is often not a lack of information; 
+it’s making vast, complex datasets easier to find, 
+understand, and use. Microsoft is helping lower 
+those barriers through platforms and AI-enabled 
+tools that make Earth observation, geospatial, 
+climate, and energy data more transparent and 
+useful for researchers, policymakers, organizations, 
+and communities. 
+The Planetary Computer is central to this work. 
+With more than 80 petabytes of Earth data from 
+over 140 sources—the equivalent of roughly 
+40 trillion pages of standard printed text—it helps 
+organizations measure, monitor, and model the 
+physical world. In 2025, it was accessed an average 
+of 24 billion times each month, reflecting its role 
+as a global resource for environmental data. 
+These datasets are also reaching users through 
+tools they already rely on. Esri’s ArcGIS Living Atlas 
+of the World integrates authoritative maps, apps, 
+and data layers powered by analysis-ready imagery 
+from the Planetary Computer, including the NASA 
+Landsat and ESA Sentinel datasets. These resources 
+provide insights across biodiversity, climate, urban 
+planning, resource management, disaster response, 
+and more. In 2025, we also launched Planetary 
+Computer Pro, a ready-to-use platform that works 
+with customers’ existing IT infrastructure to help 
+operationalize geospatial data with applied AI 
+at scale. 
+80 petabytes 
+of Earth data contained on 
+the Planetary Computer. 
+58 2026 Environmental Sustainability Report Overview Appendix Infrastructure Products 
+Applying AI for sustainability continued 
+
+
+[PAGE 59]
+Lowering the technical 
+barriers to information 
+To help democratize access to geospatial 
+data, Microsoft made Planetary Explorer— 
+an AI-powered solution accelerator—open 
+source. Scientists and policymakers can build 
+their own version in Azure and use natural 
+language to discover, interpret, and analyze 
+geospatial data from the Planetary Computer 
+and NASA, without needing to write code. 
+This lowers significant technical barriers to 
+using complex environmental information 
+in research, policy, and planning. 
+The same principle applies beyond Earth 
+observation: complex climate and energy 
+data often becomes more useful when it can 
+be understood, compared, and acted on. 
+In partnership with the United Nations Framework 
+Convention on Climate Change (UNFCCC) and 
+EY, Microsoft helped develop the Climate Data 
+Hub to support countries’ reporting and review 
+commitments under the Paris Climate Agreement. 
+This AI-enabled platform consolidates climate data 
+from more than 190 countries in one place and 
+helps surface insight on progress, gaps, and where 
+support is needed. Microsoft and EY showcased 
+the platform at COP30 by demonstrating how 
+AI-powered data tools can support more effective 
+climate reporting and analysis at a global scale. 
+Energy data and analysis become most valuable 
+when it moves beyond static reports into formats 
+people can explore and apply more easily. 
+Microsoft partnered with the International Energy 
+Agency (IEA) to apply AI to global energy analysis, 
+developing an AI agent on Azure using Copilot 
+Studio to translate complex energy insights into a 
+more accessible experience. Following the success 
+of WEO-GPT, an Azure-based agent trained 
+exclusively on the World Energy Outlook report 
+and dataset, the IEA expanded this approach for 
+its 2025 Special Report on Energy and AI and the 
+2025 World Energy Outlook. These AI agents make 
+extensive analysis easier to understand, helping 
+users find report-specific insights through a more 
+intuitive experience. 
+Sharing guidance on AI and sustainability 
+The goal is not to apply AI indiscriminately, but 
+to use it where it can help solve a specific problem 
+better, faster, or at greater scale. At Microsoft, 
+we believe AI has significant potential to help 
+address sustainability challenges, and our work to 
+reduce the impact of cloud and AI infrastructure 
+is teaching us lessons we can share. 
+In 2025, we published Strategic Guide: Aligning AI 
+Transformation with Sustainability Goals, which 
+offers a practical roadmap to help companies 
+bring AI and sustainability strategies closer 
+together. The guide outlines five practices that 
+help companies move from ambition to execution, 
+from adopting a modern cloud strategy to 
+selecting AI models that fit the mission. 
+We also co-produced a special report with the 
+Veolia Institute on AI for Energy, Water, and 
+Waste Management. Drawing on research and 
+experiences from around the world, the report 
+provides an interdisciplinary overview of how AI is 
+being applied to help manage energy, water, and 
+waste. It highlights real world case studies, from 
+optimizing water treatment and improving building 
+performance to supporting decarbonization 
+efforts, while also identifying knowledge gaps 
+as adoption scales. Organized like Microsoft’s 
+playbook on AI for sustainability, it examines both 
+the opportunities and challenges of deploying AI 
+at scale in the environmental services sector. 
+At Microsoft, we see responsible leadership as 
+more than advancing our own work; it also means 
+sharing what we learn as we reduce the impact 
+of cloud and AI infrastructure and apply AI to 
+support our sustainability strategy. We plan to 
+continue contributing practical guidance, research, 
+and examples to help other organizations identify 
+where AI can be useful, understand the tradeoffs, 
+and apply it to drive meaningful impact. 
+The goal is not to apply AI indiscriminately, 
+but to use it where it can help solve a specific 
+problem better, faster, or at greater scale. 
+59 2026 Environmental Sustainability Report Overview Appendix Infrastructure Products 
+Applying AI for sustainability continued 
+
+[PAGE 60]
+Looking ahead 
+We will continue working 
+to build sustainability 
+into our products 
+Products are one of the most direct ways Microsoft 
+reaches customers, developers, players, and 
+organizations around the world. We will continue 
+working to build key sustainability principles into 
+our products—starting with how they are designed 
+and made, and extending to what customers can 
+understand, manage, and improve through them. 
+That means continuing to reduce the resource and 
+environmental impact of our own products across 
+software, devices, packaging, logistics, and supply 
+chains, while also strengthening the tools that help 
+customers act on their sustainability priorities. 
+It also means using Microsoft’s cloud, AI, and data 
+capabilities where they can help address specific 
+challenges—from emissions measurement and 
+low-impact software to water resilience, ecosystem 
+conservation, and access to climate data. 
+As our products evolve, so does the opportunity 
+to make sustainability more practical and 
+visible in the places where people already 
+work, build, and play. We will keep working to 
+support progress toward Microsoft’s own goals 
+and to help customers, partners, and peers 
+use technology in ways that aim to drive more 
+sustainable outcomes. 
+60 2026 Environmental Sustainability Report Overview Appendix Infrastructure Products 
+
+
+[PAGE 61]
+Appendix 
+In this section 
+2025 progress at a glance 62 
+How we report 63 
+Endnotes 64 
+61 2026 Environmental Sustainability Report Overview Appendix Infrastructure Products 
+
+[PAGE 62]
+2025 progress at a glance 
+Across our commitment areas, we continued to make measurable progress in FY25 
+while laying the groundwork for long-term impact. For comprehensive environmental 
+metrics, methodology, and historical data, see the Environmental Data Fact Sheet. 
+Carbon 
+Our commitment to become carbon negative 
+by 2030 focuses on reducing emissions wherever 
+possible and removing what remains. We advance 
+this work by improving efficiency, increasing 
+the availability of lower-carbon solutions, and 
+accelerating adoption across our operations 
+and value chain. 
+  
+  
+In 2025, we: 
+■ Achieved our goal of matching 100% of our 
+annual global electricity consumption with 
+renewable energy, a significant milestone 
+on our path to carbon negative. 
+■ Contributed more than 45 million metric tons 
+of carbon removal, adding 29 projects spanning 
+five continents and 10 pathways. 
+■ Harvested more than 690 MW of power 
+capacity within existing datacenters, allowing 
+more workloads to run without adding 
+new infrastructure. 
+■ Expanded our renewable energy portfolio to 
+include agreements encompassing up to 40GW 
+of new renewable energy across 26 countries. 
+Water 
+Our commitment to become water positive by 2030 
+recognizes the essential role water plays in communities, 
+ecosystems, and economic development. We advance 
+this work by reducing water use, replenishing more 
+water than we withdraw, expanding access to water 
+and sanitation, and supporting innovation and policy 
+that strengthen long-term water resilience. 
+In 2025, we: 
+■ Replenished more than 14.2 million cubic 
+meters of water, surpassing global water 
+withdrawals for the first time. 
+■ Reduced global datacenter water usage 
+effectiveness by 25% from the 2022 baseline, 
+progressing toward our 40% reduction target. 
+■ Funded 24 new water replenishment projects, 
+expected to provide more than 29 million cubic 
+meters of benefit over their lifetime. 
+■ Designed new liquid cooling systems expected 
+to avoid more than 125 million liters of water 
+annually per datacenter, reducing water demand 
+while supporting AI growth. 
+Waste 
+Our commitment to become zero waste by 2030 
+aligns with the transition toward a circular economy. 
+We advance this work by prioritizing waste 
+prevention and circular design, then reusing and 
+recovering materials to reduce waste, emissions, 
+and resource consumption. 
+In 2025, we: 
+■ Diverted 90.5% of construction and demolition 
+waste from landfills and incinerators, exceeding 
+target for the second consecutive year. 
+■ Eliminated nearly all single-use plastic in 
+primary product packaging, reducing the 
+remaining share to just 0.07% across 
+our portfolio. 
+  
+■ Achieved a 92% reuse and recycling rate for 
+decommissioned cloud hardware, exceeding 
+our 90% target for the second year in a row. 
+■ Diverted more than 9,000 metric tons of 
+server-rack packaging waste from landfills 
+and incinerators. 
+Ecosystems 
+Our commitment to help preserve and restore the 
+world’s ecosystems focuses on applying data and 
+digital technologies to support nature while protecting 
+more land than we use. We advance this work through 
+community-based restoration and conservation, nature-
+positive design, nature-based markets, and the use of 
+data and AI to advance science, policy, and practice. 
+In 2025, we: 
+■ Achieved legal protection of 16,266 acres—
+approximately 36% more than the estimated 
+land area where Microsoft operates. 
+ 
+■ Expanded the Planetary Computer to more than 
+80 petabytes of environmental data from over 
+140 sources, helping researchers, governments, and 
+NGOs better understand and act on climate data. 
+■ Funded 30 ecological restoration projects in 
+communities near our datacenters, covering 
+more than 600 acres and engaging over 9,000 
+community members in environmental programs. 
+■ Developed AI-powered forest conservation 
+tools with 92% mapping accuracy, helping 
+direct conservation efforts and support local 
+forest stewards.
+62 2026 Environmental Sustainability Report Overview Appendix Infrastructure Products 
+
+[PAGE 63]
+How we report 
+Reporting principles and external standards 
+Microsoft works to conduct business in ways that are 
+principled, transparent, and accountable. We annually 
+publish this Environmental Sustainability Report to 
+provide information on our strategy, our performance 
+and progress against our goals, and key challenges 
+and trends we see in this work. We also publish 
+our environmental data, which is included in the 
+separate Environmental Data Fact Sheet. We present 
+greenhouse gas emissions in accordance with the 
+GHG Protocol and management’s criteria and select 
+environmental metrics that both reference the Global 
+Reporting Initiative (GRI) Standards and are reported 
+in accordance with management’s criteria as of and for 
+the fiscal year ended June 30, 2025 (FY25). Microsoft’s 
+environmental data reporting covers global wholly 
+owned and partially owned subsidiaries over which 
+Microsoft has management and operational control, 
+including Microsoft owned and leased real estate 
+facilities and datacenters. Environmental data reported 
+is subject to Microsoft’s recalculation and structural 
+changes policy as described in our Environmental 
+Data Fact Sheet. 
+Our Reports Hub available at   Microsoft.com/
+transparency provides a consolidated, comprehensive 
+view of our environmental, social, and governance 
+reporting and data ranging from our carbon footprint 
+to workforce demographics to political donations. 
+This Environmental Sustainability Report is an 
+important part of that overall set of disclosures. For this 
+and other reports, we inform our disclosure strategies 
+with careful consideration of commonly used global 
+standards. We have reported carbon emissions and 
+energy data to CDP since 2004 and water data to CDP 
+since 2011. On climate-related issues, we developed 
+our latest report in reference to the International 
+Financial Reporting Standards (IFRS) S2 Climate-related 
+Disclosures standard, as issued by the International 
+Sustainability Standards Board (ISSB), which builds 
+on the structure and principles of the Task Force on 
+Climate-related Financial Disclosures (TCFD). 
+Working together with stakeholders 
+We know that the decisions we make can affect 
+our employees, customers, partners, shareholders, 
+suppliers, and communities, and we take their 
+voices into consideration. Microsoft receives input 
+from millions of people each year—from individual 
+customers to policymakers and global human rights 
+specialists. We bring outside perspectives into the 
+company and inform our business decisions through 
+a variety of feedback channels. We often go beyond 
+formal channels, proactively engaging with key 
+stakeholders, advocacy groups, industry experts, 
+corporate social responsibility (CSR) rating agencies, 
+CSR-focused investors, and many others. We also 
+share our learnings and practices, thereby generating 
+industry dialogue, informing public debate, and 
+advancing greater progress. 
+Corporate social responsibility (CSR) priority 
+Our CSR reporting describes the topics we consider 
+to be the most important annually to stakeholders 
+when evaluating environmental, social, and governance 
+issues at Microsoft. Therefore, environmental, social, 
+and governance prioritization in our reporting does not 
+align to the concept of corporate “materiality” applied 
+in US securities law. A listing of what we currently 
+identify and categorize as our top environmental, 
+social, and governance issues can be found at 
+Microsoft.com/corporate-responsibility/sustainability.
+Governance 
+The Environmental, Social, and Public Policy 
+Committee of Microsoft’s Board of Directors provides 
+oversight and guidance on Microsoft’s environmental 
+sustainability strategy and efforts. Our Vice Chair 
+and President and our Chief Sustainability Officer 
+present to this committee on our overall sustainability 
+agenda, including our climate-related work, and solicit 
+high-level input on new and emerging initiatives. 
+Additional information on Microsoft’s corporate 
+governance is available at Microsoft.com/investor. 
+Forward-looking statements 
+This report includes estimates, projections, and other 
+“forward-looking statements” within the meaning of 
+the Private Securities Litigation Reform Act of 1995, 
+section 27A of the Securities Act of 1933, and section 21E 
+of the Securities Exchange Act of 1934. These forward-
+looking statements generally are identified by the words 
+“believe,” “project,” “expect,” “anticipate,” “estimate,” 
+“intend,” “strategy,” “future,” “target,” “efforts,” “goal,” 
+“milestone,” “tactic,” “roadmap,” “commitment,” 
+“opportunity,” “plan,” “may,” “should,” “will,” “would,” 
+“will be,” “will continue,” “will likely result,” and similar 
+expressions. Forward-looking statements are based on 
+current expectations and assumptions that are subject 
+to risks and uncertainties that may not be anticipated 
+and/or which may cause actual results to differ 
+significantly. We describe risks and uncertainties that 
+could cause actual results and events to differ materially 
+in our reports filed with the Securities and Exchange 
+Commission. We undertake no obligation to update or 
+revise publicly any forward-looking statements, whether 
+because of new information, future events, or otherwise. 
+ A number of our ESG goals may depend on the 
+adoption of certain behaviors and/or activities by third 
+parties, including our customers and partners. If those 
+parties do not adopt certain behaviors or activities, or 
+invest in certain evolving technologies, we may not be 
+able to meet some goals. Additionally, we are engaged 
+in certain projects, solutions, and technologies that, 
+should they not perform as we expect, could negatively 
+affect our ability to meet some ESG goals on time 
+or at all. Finally, we make certain claims regarding 
+our products and projects, including through our 
+funding of certain projects, and the ability of those 
+products, projects, and funding efforts to affect third 
+parties’ sustainability efforts; however, there can be 
+no guarantee that our products, projects, or funding 
+efforts will have the effects we anticipate or intend. 
+63 2026 Environmental Sustainability Report Overview Appendix Infrastructure Products 
+
+[PAGE 64]
+Endnotes 
+1. The solid line represents Microsoft’s reported 
+greenhouse gas emissions (Scopes 1, 2, and 3) for 
+FY20–FY25, prepared in accordance with GHG Protocol 
+and management’s criteria, and uses a market-based 
+emissions approach. The dotted line represents 
+an illustrative counterfactual scenario of estimated 
+emissions had select, discrete carbon reduction initiatives 
+not been undertaken. These initiatives include energy 
+efficiency improvements for XBOX consoles, renewable 
+energy purchases, sustainable aviation fuel (SAF) and 
+sustainable marine fuel (SMF) certificates, and supply-
+chain decarbonization of Surface devices. The difference 
+between the two lines is an estimate of emissions avoided 
+through these specific initiatives relative to a scenario 
+without those initiatives occurring. This estimate is 
+directional in nature, does not represent the full scope 
+of Microsoft’s decarbonization efforts, and is not part 
+of our reported greenhouse gas inventory. It should 
+not be interpreted as a comprehensive measure of total 
+emissions reductions or as additive to other carbon 
+reduction or removal claims. 
+2. Microsoft defines renewable energy as electricity 
+that comes from sources that are replenished at a 
+rate greater than or equal to their rate of depletion, 
+such as geothermal, wind, solar, hydro, and biomass. 
+To date, Microsoft’s renewable energy target includes two 
+primary categories: renewable energy from contracted 
+projects and grid mix. The first is renewable energy 
+delivered under PPAs or similar long-term contracting 
+mechanisms, generally for new projects where our 
+financial involvement in the project’s development is 
+critical for its success. This category represents more than 
+90% of the renewable energy applied to achieve our 2025 
+target. The second category is “grid mix” – renewable 
+energy supported via our standard utility relationships 
+and rates, inclusive of policy programs such as renewable 
+portfolio standards and state and utility decarbonization 
+goals. Our 2025 100% renewable target does not 
+include purchases from 
+  
+short-term, so-called “spot 
+market” renewable energy credits (RECs) sourced from 
+operational clean energy projects. 
+3. Microsoft defines carbon-free electricity (CFE) 
+technologies as technologies with zero direct emissions 
+and biogenic technologies with lifecycle emissions 
+equivalent to renewables. CFE technologies include wind; 
+solar; geothermal; sustainable biomass; hydropower; 
+nuclear; fossil fuels with complete carbon capture, 
+utilization, and sequestration; and storage charged 
+with CFE generation. 
+4. By weight, as designed, portfolio average. More details 
+can be found in our Environmental Data Fact Sheet. 
+5. Embodied carbon refers to the greenhouse gas (GHG) 
+emissions arising from the manufacturing, transportation, 
+installation, maintenance, and disposal of building and 
+infrastructure materials. Embodied carbon emissions 
+are almost always Scope 3. Carbon Leadership Forum. 
+Embodied Carbon 101. Accessed April 20, 2026. https://
+carbonleadershipforum.org/embodied-carbon-101-v2/ 
+  
+6. According to the US Environmental Protection Agency, 
+an EPD discloses a product’s key impacts on the 
+environment (including the greenhouse gas emissions 
+resulting from its manufacturing) and informs building 
+product selection by designers and owners.
+7. Zahabi, Nadia, Hongmei Gu, Meng Gong, and Janet 
+Blackadar. “A Comparative Whole-Building Life Cycle 
+Assessment of the Four Framing Systems of the Bakers 
+Place Building Using the Tally LCA Tool.” Buildings 15, no. 7 
+(2025): 1192. https://doi.org/10.3390/buildings15071192
+8. World Economic Forum. “Cement is a big problem for 
+the environment. Here’s how to make it more sustainable.” 
+September 13, 2024. https://www.weforum.org/
+stories/2024/09/cement-production-sustainable-
+concrete-co2-emissions/
+9. Cornwall, Warren. 2024. “Steel Industry Emissions Are 
+a Big Contributor to Climate Change. Can It Go Green?” 
+Science, May 3, 2024. https://www.science.org/content/
+article/steel-industry-emissions-big-contributor-
+climate-change-can-go-green
+10. Lin et al., “Closed-loop optimization using machine 
+learning for the accelerated design of sustainable cements 
+incorporating algal biomatter.” Matter 8 (September 3, 
+2025): 102267. https://www.sciencedirect.com/science/
+article/pii/S2590238525003108
+11. An environmental attribute certificate is an instrument 
+that certifies and communicates the environmental and/
+or climate-related attributes associated with commodities, 
+activities or projects. https://files.sciencebasedtargets.
+org/production/files/SBTi-Glossary.pdf
+12. Water usage effectiveness (WUE) is a key industry metric 
+relating to the efficient and sustainable operations of our 
+datacenters. WUE describes the ratio of the yearly amount 
+of datacenter water use (for cooling and humidification) 
+to energy use. As with power usage effectiveness (PUE), 
+the lower the WUE, the better. Tracking and lowering 
+WUE is a crucial aspect of our commitment to be water 
+positive by 2030.
+13. Microsoft defines water stress as the ability (or lack 
+of ability) to meet human and ecological demand for 
+fresh water in a given location, whether because of 
+insufficient supply or inadequate quality. 
+14. Microsoft aligns to the GRI 303: Water and Effluents 
+2018 standard where water withdrawal is defined as the 
+total amount of water taken from any source for use 
+by the organization. 
+15. Microsoft aligns to the GRI 303: Water and Effluents 2018 
+standard where water consumption is defined as the total 
+amount of water withdrawn by an organization minus 
+the amount discharged back to the same source. 
+16. This volume was quantified by third parties across our 
+replenishment project portfolio. 
+17. Our total number of replenishment projects fluctuates 
+year to year, reflecting changes in conditions, 
+opportunities, and community needs. 
+18. This was calculated by dividing the total replenishment 
+volume by the volume held in one Olympic-sized 
+swimming pool. 
+19. Gartner Awards, Gartner Power of the Profession Supply 
+Chain Award Library, by Irina Kondrashov, Maria Nieradka, 
+December 2025. 
+Gartner and Power of the Profession are a trademark 
+of Gartner, Inc. and/or its affiliates. 
+Gartner does not endorse any vendor, product or service 
+depicted in its research publications, and does not advise 
+technology users to select only those vendors with the 
+highest ratings or other designation. Gartner research 
+publications consist of the opinions of Gartner’s 
+research organization and should not be construed 
+as statements of fact. Gartner disclaims all warranties, 
+expressed or implied, with respect to this research, 
+including any warranties of merchantability or fitness 
+for a particular purpose. 
+642026 Environmental Sustainability Report Overview Appendix Infrastructure Products 
+
+[PAGE 65]
+20. Microsoft defines circular content as materials or 
+comp
+onents made from recycled content, designed 
+for reuse or that have been reused, or sourced from 
+forests that are FSC certified for their sustainable 
+management practices. 
+21. According to the International Energy Agency (IEA), 
+e-f
+uels are synthetic fuels made from renewable 
+hydrogen produced using renewable electricity. 
+Examples include e-kerosene, e-methanol, and ammonia. 
+E-fuels can help reduce greenhouse gas emissions in 
+hard-to-electrify sectors such as aviation, shipping, 
+and heavy industry. 
+22. Sustain Our Future Foundation is a national nonprofit 
+that p
+artners with corporations and renewable energy 
+developers to strengthen the community impact of 
+renewable energy projects. 
+23. According to the US Energy Information Administration 
+(EI
+A), capacity factor measures how much electricity 
+a generating unit actually produces compared to the 
+maximum it could produce if it operated at full power 
+continuously. A high-capacity factor means the asset 
+generates electricity consistently over time and 
+makes efficient use of its installed capacity. 
+  
+24. This estimate is calculated based on the EPA estimate 
+of th
+e typical passenger vehicle averaging 22.8 miles 
+per gallon with the average vehicle miles traveled 
+as 10,917 miles per year. 
+  
+  
+  
+25. Within our portfolio, it’s common for three to four 
+yea
+rs to lapse from a developer’s decision to proceed 
+with a technology-based project and when they begin 
+commercial operations—that is, when a project starts 
+to result in actual carbon removal. Comparatively, 
+tree growth, and thus carbon accumulation, begins 
+immediately and then accelerates, with significant uptake 
+typically occurring after four to six years under optimal 
+conditions, such as tropical environments with 30 or 
+more native species planted. 
+  
+26. Microsoft defines measurement, monitoring, reporting, 
+and v
+erification (MMRV) protocols as standardized 
+frameworks used to quantify, document, and 
+independently verify carbon dioxide removals. In carbon 
+removal applications, MMRV protocols define how 
+removed carbon dioxide is quantified, how results are 
+reported transparently, and how outcomes are verified 
+by third parties to ensure removals are real, additional, 
+durable, and accurately accounted for. 
+27. Biophilic design incorporates elements inspired by 
+nat
+ure—such as natural materials, forms, patterns, and 
+lighting—to improve occupant well-being and can reduce 
+embodied carbon by using lower-impact, renewable, 
+or responsibly sourced materials. University of the 
+Built Environment. “What Is Biophilic Architecture? 
+15 Real-World Examples in the Built Environment.” January 
+10, 2025. 
+  
+  https://www.ube.ac.uk/whats-happening/
+articles/biophilia-examples-built-environment / 
+28. Analyses of these workloads and emissions relies on 
+int
+ernally developed methodologies that are informed 
+by the GHG Protocol and the continuously evolving 
+scientific and technological global standards surrounding 
+emissions assessment. 
+29. This information has been self-reported by the 
+org
+anization and has not been verified by Microsoft. 
+30. One plastic water bottle ≈ 10 g of plastic, 100 bottles ≈ 
+1 kg, 500,000,000 bottles ≈ 5,000 metric tons of plastic. 
+The a
+verage plastic water bottle (single-use PET bottle) 
+weighs about 9–12 grams for the most common 
+size sold. Typical weights by bottle size 500 mL (16.9 oz) — 
+~8–10 grams. This is the most common “average” 
+ref
+erence point. 330 mL (11 oz) — ~6–8 grams. 1 liter 
+(33
+.8 oz) — ~18–22 grams. 1.5 liter — ~25–30 grams. 
+31. Devices product content covers the entire Surface 
+and G
+aming devices portfolio by mass. 
+32. Surface Pro 10 and Surface Pro (11th Edition) enclosure 
+inc
+ludes Bucket and Kickstand. 100% recycled aluminum 
+alloy in Bucket and Kickstand. Surface Laptop 6 enclosure 
+includes A Cover, C Cover, and D Bucket. 100% recycled 
+aluminum alloy in A Cover. Surface Laptop (7th Edition) 
+– 13.8 and 15-inch – enclosure includes A Cover, C 
+Bucket, and D Cover. 100% recycled aluminum alloy in 
+A Cover and C Bucket. 100% recycled rare earth metals in 
+magnets. Based on validation performed by Underwriter 
+Laboratories, Inc. using Environmental Claim Validation 
+Procedure, UL 2809-2, Second Edition, November 7, 2023. 
+33. Based on validation performed by Underwriter 
+Lab
+oratories, Inc., using Environmental Claim Validation 
+Procedure, UL 2809-2, Second Edition, June 20, 2024. 
+The device has 90% post-consumer recycled plastics in 
+its top enclosure, 90% post-consumer recycled aluminum 
+alloy in its top shield, 100% pre-consumer recycled 
+aluminum alloy in its bottom plate, and its motherboard 
+contains 100% recycled copper and 100% recycled 
+tin solder. 
+34. Alternative fuels include gaseous fuels such as hydrogen, 
+nat
+ural gas, and propane; alcohols such as ethanol, 
+methanol, and butanol; vegetable and waste-derived oils; 
+and electricity. These fuels may be used in a dedicated 
+system that burns a single fuel, or in a mixed system 
+with other fuels including traditional gasoline or diesel, 
+such as in hybrid-electric or flexible fuel vehicles. U.S. 
+Environmental Protection Agency. “Alternative Fuels.” 
+Renewable Fuel Standard. Last modified March 30, 
+2026.   https://www.epa.gov/renewable-fuel-standard/
+alternative-fuels 
+35. This estimate is calculated based on the EPA estimate 
+of th
+e typical passenger vehicle emitting 0.009 mtCO2e 
+per gallon of gas. 
+36. HVO fuel, or hydrotreated vegetable oil, is a renewable 
+die
+sel fuel made by processing plant-based oils, waste 
+fats, or other renewable feedstocks with hydrogen to 
+produce a fuel that is chemically similar to conventional 
+diesel.   https://www.sciencedirect.com/topics/
+engineering/hydrotreated-vegetable-oil 
+37. The use of EVs in outbound truckload lanes within 
+100 m
+iles of our distribution facilities in North America. 
+38. Phillips 66 supplied 11 million gallons of SAF to 
+Uni
+ted Airlines. Through a subsequent exchange of 
+environmental attributes between United Airlines, DSV, 
+and Microsoft, this SAF is expected to reduce lifecycle 
+GHG emissions by about 100,000 metric tons. 
+65 2026 Environmental Sustainability Report Overview Appendix Infrastructure Products 
+Endnotes continued 
+
+[PAGE 66]
+  
+  
+Stay up to date 
+on our progress 
+Learn more about our sustainability journey 
+and sign up for news and updates. 
+2026 Microsoft Environmental Sustainability Report 
