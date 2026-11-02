@@ -1,164 +1,268 @@
-# Permission-Aware Multi-Tenant RAG System
+# 🔐 Permission-Aware RAG
 
-A clean, minimal dashboard for a permission-aware multi-tenant RAG system built with Flask, ChromaDB, and Ollama.
+**An AI-powered document question-answering system that ensures users can access only the information they are authorized to see.**
 
-## Project Structure
+## 💡 What is this project?
 
-```
+Imagine two different companies using the same AI assistant.
+
+Both companies have their own documents, reports, and confidential information. They also have access to some public documents.
+
+Now, if an employee from Company A asks the AI about Company B's private documents, should the AI provide that information?
+
+Of course not!
+
+This is the problem that **Permission-Aware RAG (Retrieval-Augmented Generation)** aims to solve.
+
+It allows an AI assistant to answer questions using documents that a user is authorized to access, while preventing access to private information belonging to other organizations.
+
+## 🎯 What Problem Does It Solve?
+
+Organizations manage large numbers of documents, making it difficult to find information while maintaining proper access control.
+
+A normal AI assistant may generate answers using information that should not be visible to every user.
+
+This project adds an authorization layer to document-based AI question answering.
+
+Before retrieving information, the system checks who is asking the question and retrieves only the documents that user is allowed to access.
+
+## ⚙️ How Does It Work?
+
+1. **User Identification:** The system identifies the user through their configured account.
+2. **Permission Checking:** It checks which organization the user belongs to and their access level.
+3. **Document Retrieval:** It searches for relevant information only within authorized documents.
+4. **Access Control:** Public documents are available to everyone, while private documents remain restricted to their respective organizations.
+5. **Answer Generation:** The AI generates an answer using the retrieved information.
+6. **Source References:** Answers include references to the documents used.
+7. **Insufficient Evidence:** If the available documents do not contain enough information, the system avoids making up an answer.
+
+## 🔒 Example: How Access Control Works
+
+The current prototype supports three types of users:
+
+| User | Document Access |
+|---|---|
+| Public Analyst | Public documents |
+| Tenant A Analyst | Public + Tenant A private documents |
+| Tenant B Analyst | Public + Tenant B private documents |
+
+**Example scenarios:**
+
+- Tenant A asks about its own security policy → Answer provided.
+- Tenant B asks about its own security policy → Answer provided.
+- Tenant A asks about Tenant B's private security policy → Access denied.
+- Tenant A asks about public information → Answer provided.
+
+This demonstrates how private information can be separated between different organizations using the same AI platform.
+
+## 🌍 Where Can It Be Used?
+
+Permission-Aware RAG can be useful in several areas:
+
+- **Companies:** Managing documents and confidential information across different organizations and teams.
+- **Hospitals:** Controlling access to patient and administrative records.
+- **Banks:** Protecting confidential customer and financial information.
+- **Educational Institutions:** Managing student, faculty, and administrative documents.
+- **Multi-Client Platforms:** Allowing multiple customers to use one AI platform without exposing each other's private information.
+
+These are potential use cases. The current prototype demonstrates organization-level access control rather than complete production systems for these industries.
+
+## 🧰 Technologies Used
+
+- **Python** – Main programming language.
+- **Retrieval-Augmented Generation (RAG)** – Retrieves relevant document information before generating answers.
+- **ChromaDB** – Stores and retrieves document embeddings.
+- **Sentence Transformers** – Converts text into numerical embeddings.
+- **Ollama** – Runs the language model locally.
+- **Gemma 3 (4B)** – Generates answers using the retrieved evidence.
+
+## 📁 Project Structure
+
+```text
 permission-aware-rag/
-├── app.py                    # Flask entry point and API routes
-├── users.json                # Existing development user registry
-├── requirements.txt          # Existing and required dependencies
-├── templates/
-│   └── index.html            # Main dashboard
-├── static/
-│   ├── css/
-│   │   └── style.css         # Dashboard styling
-│   └── js/
-│       └── app.js            # Chat interactions and API calls
-├── src/
-│   ├── retrieval.py          # Existing RAG retrieval and security
-│   ├── generation.py         # Existing Ollama generation
-│   ├── relevance.py          # Existing relevance and access checks
-│   ├── chroma_setup.py       # Database setup
-│   ├── embeddings.py         # Embedding generation
-│   ├── chunking.py           # Text chunking
-│   └── ingest.py             # Document ingestion
+│
 ├── data/
-│   ├── chunks/               # Chunk metadata (chunks.json)
-│   ├── embeddings/           # Stored vectors (vectors.npy, metadata.json)
-│   ├── processed/            # Processed document texts
-│   ├── public/               # Source documents (PDFs/DOCXs)
-│   └── chroma_db/            # ChromaDB vector database
+│   ├── public/
+│   ├── processed/
+│   ├── chunks/
+│   ├── embeddings/
+│   └── chroma_db/
+│
+├── src/
+│   ├── ingest.py
+│   ├── chunking.py
+│   ├── embeddings.py
+│   ├── chroma_setup.py
+│   ├── relevance.py
+│   └── retrieval.py
+│   └── generation.py
+│
 ├── tests/
-│   ├── test.py               # Existing citation validation tests
-│   ├── test_relevance.py     # Existing relevance filter tests
-│   ├── test_retrieval_security.py  # Existing security tests
-│   └── test_flask_api.py     # New Flask API tests
-└── README.md                 # This file
+│
+├── users.json
+├── requirements.txt
+└── README.md
 ```
 
-## Setup Instructions
+## 🚀 Getting Started
 
-### 1. Activate the existing virtual environment
+Follow these steps to run the project locally.
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/Aviraj516/permission-aware-rag.git
+cd permission-aware-rag
+```
+
+### 2. Create a Virtual Environment
+
+```bash
+python3 -m venv .venv
+```
+
+Activate it:
+
+**macOS / Linux:**
 
 ```bash
 source .venv/bin/activate
 ```
 
-### 2. Install missing dependencies
+**Windows:**
 
 ```bash
-pip install flask
+.venv\Scripts\activate
 ```
 
-(Other dependencies like sentence-transformers, numpy, pypdf, and python-docx should already be installed from the existing environment.)
-
-### 3. Start Ollama and verify the configured model is available
-
-This project uses Ollama with the `gemma3:4b` model. Ensure Ollama is running and the model is available:
+### 3. Install Dependencies
 
 ```bash
-ollama serve
+pip install -r requirements.txt
+```
+
+### 4. Set Up Ollama
+
+Install Ollama and download the Gemma 3 model:
+
+```bash
 ollama pull gemma3:4b
 ```
 
-### 4. Configure the development user
+Make sure the Ollama service is running.
 
-Set the `RAG_USER_ID` environment variable to select your authorized user identity. The available users are defined in `users.json`:
+### 5. Configure User Identity
+
+The prototype uses `users.json` to identify the development user.
+
+**For Tenant A:**
 
 ```bash
-# For Tenant A internal access
 export RAG_USER_ID=employee_a
+```
 
-# For Tenant B internal access
+**For Tenant B:**
+
+```bash
 export RAG_USER_ID=employee_b
+```
 
-# For public access
+**For Public Access:**
+
+```bash
 export RAG_USER_ID=public_analyst
 ```
 
-### 5. Start Flask using the appropriate command
+For Windows PowerShell, use:
 
-Start the Flask development server:
-
-```bash
-python app.py
+```powershell
+$env:RAG_USER_ID="employee_a"
 ```
 
-The server will be available at `http://localhost:5001` (or the `PORT` environment variable if set).
-
-### 6. Open the local dashboard URL in a browser
-
-Navigate to `http://localhost:5001` to open the SecureRAG dashboard.
-
-### 7. Test an authorized query
-
-1. Enter a question related to your authorized tenant's documents
-2. Example (Tenant A): "What is Tenant A's MFA policy?"
-3. The system will retrieve authorized chunks, generate an answer, and display source citations
-
-### 8. Test a cross-tenant request
-
-1. With `RAG_USER_ID=employee_a`, ask a question targeting Tenant B
-2. Example: "What are Tenant B's security requirements?"
-3. The system will respond: "This request is outside your authorized information boundary."
-
-### 9. Common errors and their fixes
-
-| Error | Cause | Fix |
-|-------|-------|-----|
-| `400: Questions cannot be empty` | Empty question submitted | Enter a non-empty question |
-| `403: Development identity not configured` | `RAG_USER_ID` not set | Set `RAG_USER_ID` environment variable |
-| `503: The local AI service could not be reached` | Ollama not running | Start Ollama and ensure `gemma3:4b` is available |
-| `access_denied` | Cross-tenant question | Ask about your own tenant or public documents |
-| `insufficient_evidence` | Question has no relevant authorized documents | Rephrase to ask about public reports or your organization's policies |
-
-## Security Notes
-
-- The `RAG_USER_ID` environment variable is **not production authentication**. It is a development convenience for local prototyping.
-- Identity is always resolved on the server via `users.json`. The browser should never supply `tenant_id` or `user_id`.
-- Cross-tenant requests are blocked server-side. The frontend cannot bypass these checks.
-- Unauthorized document metadata is never returned to the browser.
-
-## Existing Tests
-
-Run the full test suite:
+### 6. Configure the Language Model
 
 ```bash
-PYTHONPATH=. pytest tests/ -v
+export RAG_LLM_MODEL=gemma3:4b
 ```
 
-All 35 unit, integration, and security tests should pass. Tests are organized under `tests/`.
+Windows PowerShell:
+
+```powershell
+$env:RAG_LLM_MODEL="gemma3:4b"
+```
+
+### 7. Run the Project
+
+Make sure the ChromaDB collection has been prepared and populated with the required documents.
+
+Run:
+
+```bash
+python -m src.retrieval
+```
+
+You can now ask questions through the terminal.
+
+Type `exit` to stop the application.
+
+## 🧪 Testing
+
+Run the test suite:
+
+```bash
+python -m pytest -v
+```
+
+The tests cover:
+
+- Tenant-level document access restrictions.
+- Cross-tenant access prevention.
+- Public document accessibility.
+- Retrieval relevance.
+- Answer generation.
+- Citation validation.
+- Insufficient evidence handling.
+
+## 🔐 Security Note
+
+This is currently a learning and development prototype.
+
+The `RAG_USER_ID` environment variable is used for local development identity selection. It is not production authentication.
+
+A production-ready implementation would require proper login, identity verification, secure permission management, and additional security testing.
+
+## 📌 Current Project Scope
+
+- Public document access.
+- Tenant A and Tenant B document separation.
+- Permission-aware document retrieval.
+- Cross-tenant access denial.
+- AI-generated answers using retrieved evidence.
+- Citation validation.
+- Insufficient-evidence handling.
+- Local language model execution.
+
+**Note:** Department-level permissions within an individual tenant are not currently implemented.
+
+## 🚧 Future Improvements
+
+- Implement proper user authentication.
+- Add department-level access permissions.
+- Support document uploads and management.
+- Improve retrieval accuracy and answer quality.
+- Add a user-friendly interface.
+- Expand support for different document formats.
+
+## 👨‍💻 Project Status
+
+This project is actively being developed and improved.
+
+The goal is to explore how AI can make document search and question answering more useful while respecting privacy and access permissions.
+
+**The idea is simple: AI should not only know how to answer a question. It should also know which information it is allowed to use.**
 
 ---
 
-## Spatial 3D UI Workspace (Three.js + React Three Fiber)
+⭐ If you find this project interesting, feel free to explore the repository and share your feedback.
 
-SecureRAG features an enterprise-grade spatial 3D AI workspace built with **React**, **Three.js**, **React Three Fiber (`@react-three/fiber`)**, and **`@react-three/drei`**.
-
-### Frontend Features
-- **3D Spatial Atmosphere**: Three.js Canvas with subtle ambient navy illumination, perspective depth grid, floating knowledge nodes, and gentle cursor parallax.
-- **Accessible Glass Panels**: High-contrast, selectable, DOM glassmorphic overlays with backdrop blur.
-- **Workspace Identity**: Realistic presentation mapping (Priya Sharma / Northstar Financial) connected to trusted server-side identity.
-- **Interactive Citations**: Inline `[S1]` badge clicks automatically highlight corresponding source cards.
-- **Distinct State Cards**: Customized cards for Insufficient Evidence, Tenant Isolation Access Restrictions, and Ollama service errors.
-- **Non-WebGL Fallback**: Automatic detection and graceful fallback if WebGL is unavailable.
-
-### Running Both Servers
-
-#### Terminal 1 — Start the Flask Backend (Port 5001)
-```bash
-source .venv/bin/activate
-export RAG_USER_ID=employee_a
-python3 app.py
-```
-
-#### Terminal 2 — Start the Spatial 3D Frontend (Port 5173)
-```bash
-cd frontend
-npm install
-npm run dev
-```
-
-Open `http://localhost:5173/` in your browser. All `/api` requests are automatically proxied to Flask on port 5001.
+**GitHub Repository:** https://github.com/Aviraj516/permission-aware-rag
